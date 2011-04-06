@@ -13,12 +13,12 @@ Scripts/Adjektiven/Adjektiven_Bilingual.txt -text
 Scripts/Nomen/Nomen.python -text
 Scripts/Nomen/Nomen.python.txt -text
 Scripts/Nomen/neueWoerter.txt -text
-Scripts/Nouns[!!-~]Wiki/extract_wiki_translations.py -text
-Scripts/Nouns[!!-~]Wiki/noun.txt -text
 Scripts/Verben/README -text
 Scripts/Verben/Verben.python -text
 Scripts/Verben/Verben.python.txt -text
 Scripts/Verben/Verben.txt -text
+Scripts/nounswiki/extract_wiki_translations.py -text
+Scripts/nounswiki/noun.txt -text
 /TODO -text
 /apertium-en-nl.en-nl.dix.xml -text
 /apertium-en-nl.en-nl.t1x -text
