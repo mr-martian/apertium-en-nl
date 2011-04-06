@@ -13,6 +13,8 @@ Scripts/Adjektiven/Adjektiven_Bilingual.txt -text
 Scripts/Nomen/Nomen.python -text
 Scripts/Nomen/Nomen.python.txt -text
 Scripts/Nomen/neueWoerter.txt -text
+Scripts/Nouns[!!-~]Wiki/extract_wiki_translations.py -text
+Scripts/Nouns[!!-~]Wiki/noun.txt -text
 Scripts/Verben/README -text
 Scripts/Verben/Verben.python -text
 Scripts/Verben/Verben.python.txt -text
