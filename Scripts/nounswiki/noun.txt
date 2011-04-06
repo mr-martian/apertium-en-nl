@@ -398,8 +398,9 @@
 <e slr="0"><p><l>allochtoon<s n="n"/><s n="mf"/><r>originating<s n="n"/></r></p></e>
 <e slr="0"><p><l>almacht<s n="n"/><s n="mf"/><r>omnipotence<s n="n"/></r></p></e>
 <e slr="0"><p><l>alpaca<s n="n"/><s n="m"/><r>alpaca<s n="n"/></r></p></e>
-<e slr="0"><p><l>alpineski%C3%ABn<s n="n"/><s n="nt"/><r>alpine<b/>skiing<s n="n"/></r></p></e>
+<e slr="0"><p><l>alpineskiën<s n="n"/><s n="nt"/><r>alpine<b/>skiing<s n="n"/></r></p></e>
 <e slr="0"><p><l>altaar<s n="n"/><s n="nt"/><r>altar<s n="n"/></r></p></e>
+
 <e slr="0"><p><l>alternatief<s n="n"/><s n="nt"/><r>alternative<s n="n"/></r></p></e>
 <e slr="0"><p><l>altviolist<s n="n"/><s n="m"/><r>violist<s n="n"/></r></p></e>
 <e slr="0"><p><l>altviool<s n="n"/><s n="mf"/><r>viola<s n="n"/></r></p></e>
@@ -431,7 +432,7 @@
 <e slr="0"><p><l>amplitudemodulatie<s n="n"/><s n="mf"/><r>amplitude<b/>modulation<s n="n"/></r></p></e>
 <e slr="0"><p><l>ampul<s n="n"/><s n="f"/><r>ampoule<s n="n"/></r></p></e>
 <e slr="1"><p><l>ampul<s n="n"/><s n="f"/><r>jug<s n="n"/></r></p></e>
-<e slr="0"><p><l>amp%C3%A8re<s n="n"/><s n="m"/><r>ampere<s n="n"/></r></p></e>
+<e slr="0"><p><l>ampère<s n="n"/><s n="m"/><r>ampere<s n="n"/></r></p></e>
 <e slr="0"><p><l>amulet<s n="n"/><s n="mf"/><r>amulet<s n="n"/></r></p></e>
 <e slr="0"><p><l>amyotrofische<b/>laterale<b/>sclerose<s n="n"/><s n="f"/><r>amyotrofisch<s n="n"/></r></p></e>
 <e slr="1"><p><l>amyotrofische<b/>laterale<b/>sclerose<s n="n"/><s n="f"/><r>amyotrophic<b/>lateral<b/>sclerosis<s n="n"/></r></p></e>
@@ -555,8 +556,8 @@
 <e slr="0"><p><l>Aswoensdag<s n="n"/><s n="m"/><r>Ash<b/>Wednesday<s n="n"/></r></p></e>
 <e slr="0"><p><l>asymptoot<s n="n"/><s n="m"/><r>asymptote<s n="n"/></r></p></e>
 <e slr="0"><p><l>ataxie<s n="n"/><s n="f"/><r>ataxia<s n="n"/></r></p></e>
-<e slr="0"><p><l>athe%C3%AFsme<s n="n"/><s n="nt"/><r>atheism<s n="n"/></r></p></e>
-<e slr="0"><p><l>athe%C3%AFst<s n="n"/><s n="mf"/><r>atheist<s n="n"/></r></p></e>
+<e slr="0"><p><l>atheïsme<s n="n"/><s n="nt"/><r>atheism<s n="n"/></r></p></e>
+<e slr="0"><p><l>atheïst<s n="n"/><s n="mf"/><r>atheist<s n="n"/></r></p></e>
 <e slr="0"><p><l>atleet<s n="n"/><s n="m"/><r>athlete<s n="n"/></r></p></e>
 <e slr="0"><p><l>atlete<s n="n"/><s n="f"/><r>athlete<s n="n"/></r></p></e>
 <e slr="0"><p><l>atmosfeer<s n="n"/><s n="m"/><r>atmosphere<s n="n"/></r></p></e>
@@ -573,7 +574,7 @@
 <e slr="0"><p><l>augustus<s n="n"/><s n="m"/><r>August<s n="n"/></r></p></e>
 <e slr="0"><p><l>aura<s n="n"/><s n="f"/><r>aura<s n="n"/></r></p></e>
 <e slr="0"><p><l>aureool<s n="n"/><s n="nt"/><r>halo<s n="n"/></r></p></e>
-<e slr="0"><p><l>Australi%C3%ABr<s n="n"/><s n="m"/><r>Australian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Australiër<s n="n"/><s n="m"/><r>Australian<s n="n"/></r></p></e>
 <e slr="0"><p><l>auteur<s n="n"/><s n="m"/><r>author<s n="n"/></r></p></e>
 <e slr="0"><p><l>autisme<s n="n"/><s n="nt"/><r>autism<s n="n"/></r></p></e>
 <e slr="0"><p><l>auto<s n="n"/><s n="m"/><r>car<s n="n"/></r></p></e>
@@ -701,7 +702,7 @@
 <e slr="1"><p><l>barmhartigheid<s n="n"/><s n="f"/><r>charity<s n="n"/></r></p></e>
 <e slr="0"><p><l>barometer<s n="n"/><s n="m"/><r>barometer<s n="n"/></r></p></e>
 <e slr="0"><p><l>barones<s n="n"/><s n="f"/><r>baroness<s n="n"/></r></p></e>
-<e slr="0"><p><l>barri%C3%A8re<s n="n"/><s n="mf"/><r>barrier<s n="n"/></r></p></e>
+<e slr="0"><p><l>barrière<s n="n"/><s n="mf"/><r>barrier<s n="n"/></r></p></e>
 <e slr="0"><p><l>basilica<s n="n"/><s n="f"/><r>basilica<s n="n"/></r></p></e>
 <e slr="0"><p><l>basilicum<s n="n"/><s n="nt"/><r>basil<s n="n"/></r></p></e>
 <e slr="1"><p><l>basilicum<s n="n"/><s n="nt"/><r>Ocimum<b/>basilicum<s n="n"/></r></p></e>
@@ -751,7 +752,7 @@
 <e slr="3"><p><l>bediening<s n="n"/><s n="f"/><r>last<b/>rites<s n="n"/></r></p></e>
 <e slr="0"><p><l>bedieningspaneel<s n="n"/><s n="nt"/><r>control<b/>panel<s n="n"/></r></p></e>
 <e slr="0"><p><l>bedoeling<s n="n"/><s n="f"/><r>purpose<s n="n"/></r></p></e>
-<e slr="0"><p><l>bedoe%C3%AFen<s n="n"/><s n="m"/><r>beduin<s n="n"/></r></p></e>
+<e slr="0"><p><l>bedoeïen<s n="n"/><s n="m"/><r>beduin<s n="n"/></r></p></e>
 <e slr="0"><p><l>bedrag<s n="n"/><s n="nt"/><r>amount<s n="n"/></r></p></e>
 <e slr="0"><p><l>bedreiging<s n="n"/><s n="f"/><r>threat<s n="n"/></r></p></e>
 <e slr="0"><p><l>bedrieger<s n="n"/><s n="m"/><r>deceiver<s n="n"/></r></p></e>
@@ -1044,7 +1045,7 @@
 <e slr="0"><p><l>bezwering<s n="n"/><s n="f"/><r>oath<s n="n"/></r></p></e>
 <e slr="1"><p><l>bezwering<s n="n"/><s n="f"/><r>exorcism<s n="n"/></r></p></e>
 <e slr="2"><p><l>bezwering<s n="n"/><s n="f"/><r>conjuration<s n="n"/></r></p></e>
-<e slr="0"><p><l>be%C3%ABdiging<s n="n"/><s n="f"/><r>swear<b/>in<s n="n"/></r></p></e>
+<e slr="0"><p><l>beëdiging<s n="n"/><s n="f"/><r>swear<b/>in<s n="n"/></r></p></e>
 <e slr="0"><p><l>bibliograaf<s n="n"/><s n="mf"/><r>bibliographer<s n="n"/></r></p></e>
 <e slr="0"><p><l>bibliografie<s n="n"/><s n="f"/><r>bibliography<s n="n"/></r></p></e>
 <e slr="0"><p><l>bibliotheek<s n="n"/><s n="f"/><r>library<s n="n"/></r></p></e>
@@ -1508,7 +1509,7 @@
 <e slr="0"><p><l>buurman<s n="n"/><s n="m"/><r>neighbour<s n="n"/></r></p></e>
 <e slr="0"><p><l>buurt<s n="n"/><s n="f"/><r>neighborhood<s n="n"/></r></p></e>
 <e slr="0"><p><l>buurvrouw<s n="n"/><s n="f"/><r>neighbour<s n="n"/></r></p></e>
-<e slr="0"><p><l>b%C3%BChne<s n="n"/><s n="f"/><r>stage<s n="n"/></r></p></e>
+<e slr="0"><p><l>bühne<s n="n"/><s n="f"/><r>stage<s n="n"/></r></p></e>
 <e slr="0"><p><l>cabaretier<s n="n"/><s n="m"/><r>cabaret<s n="n"/></r></p></e>
 <e slr="0"><p><l>cabriolet<s n="n"/><s n="m"/><r>cabriolet<s n="n"/></r></p></e>
 <e slr="0"><p><l>cacaoboom<s n="n"/><s n="m"/><r>cacao<s n="n"/></r></p></e>
@@ -1518,7 +1519,7 @@
 <e slr="0"><p><l>cadmium<s n="n"/><s n="nt"/><r>cadmium<s n="n"/></r></p></e>
 <e slr="0"><p><l>cafetaria<s n="n"/><s n="mf"/><r>cafeteria<s n="n"/></r></p></e>
 <e slr="1"><p><l>cafetaria<s n="n"/><s n="mf"/><r>snack<b/>bar<s n="n"/></r></p></e>
-<e slr="0"><p><l>caf%C3%A9<s n="n"/><s n="nt"/><r>café<s n="n"/></r></p></e>
+<e slr="0"><p><l>café<s n="n"/><s n="nt"/><r>café<s n="n"/></r></p></e>
 <e slr="0"><p><l>calcium<s n="n"/><s n="nt"/><r>calcium<s n="n"/></r></p></e>
 <e slr="0"><p><l>californium<s n="n"/><s n="nt"/><r>californium<s n="n"/></r></p></e>
 <e slr="0"><p><l>calorie<s n="n"/><s n="f"/><r>calorie<s n="n"/></r></p></e>
@@ -1539,7 +1540,7 @@
 <e slr="0"><p><l>carnivoor<s n="n"/><s n="m"/><r>carnivore<s n="n"/></r></p></e>
 <e slr="0"><p><l>carona<s n="n"/><s n="f"/><r>cigar<s n="n"/></r></p></e>
 <e slr="0"><p><l>caronade<s n="n"/><s n="f"/><r>carronade<s n="n"/></r></p></e>
-<e slr="0"><p><l>carri%C3%A8re<s n="n"/><s n="f"/><r>career<s n="n"/></r></p></e>
+<e slr="0"><p><l>carrière<s n="n"/><s n="f"/><r>career<s n="n"/></r></p></e>
 <e slr="0"><p><l>carrosserie<s n="n"/><s n="f"/><r>body<s n="n"/></r></p></e>
 <e slr="0"><p><l>Carthager<s n="n"/><s n="m"/><r>Carthaginian<s n="n"/></r></p></e>
 <e slr="0"><p><l>cassave<s n="n"/><s n="f"/><r>cassava<s n="n"/></r></p></e>
@@ -1627,10 +1628,10 @@
 <e slr="0"><p><l>classificatie<s n="n"/><s n="f"/><r>classification<s n="n"/></r></p></e>
 <e slr="0"><p><l>clausule<s n="n"/><s n="f"/><r>clause<s n="n"/></r></p></e>
 <e slr="0"><p><l>client<s n="n"/><s n="m"/><r>client<s n="n"/></r></p></e>
-<e slr="0"><p><l>cli%C3%ABnt<s n="n"/><s n="mf"/><r>client<s n="n"/></r></p></e>
+<e slr="0"><p><l>cliënt<s n="n"/><s n="mf"/><r>client<s n="n"/></r></p></e>
 <e slr="0"><p><l>coalitie<s n="n"/><s n="f"/><r>coalition<s n="n"/></r></p></e>
 <e slr="0"><p><l>coalitieregering<s n="n"/><s n="f"/><r>w:coalition<b/>government<s n="n"/></r></p></e>
-<e slr="0"><p><l>coca%C3%AFne<s n="n"/><s n="m"/><r>cocaine<s n="n"/></r></p></e>
+<e slr="0"><p><l>cocaïne<s n="n"/><s n="m"/><r>cocaine<s n="n"/></r></p></e>
 <e slr="0"><p><l>cocktail<s n="n"/><s n="m"/><r>cocktail<s n="n"/></r></p></e>
 <e slr="0"><p><l>code<s n="n"/><s n="mf"/><r>code<s n="n"/></r></p></e>
 <e slr="0"><p><l>codering<s n="n"/><s n="f"/><r>encoding<s n="n"/></r></p></e>
@@ -1643,7 +1644,7 @@
 <e slr="0"><p><l>collegezaal<s n="n"/><s n="mf"/><r>lecture<s n="n"/></r></p></e>
 <e slr="0"><p><l>coloradokever<s n="n"/><s n="m"/><r>potato<b/>beetle<s n="n"/></r></p></e>
 <e slr="0"><p><l>combinatie<s n="n"/><s n="f"/><r>combination<s n="n"/></r></p></e>
-<e slr="0"><p><l>comit%C3%A9<s n="n"/><s n="nt"/><r>committee<s n="n"/></r></p></e>
+<e slr="0"><p><l>comité<s n="n"/><s n="nt"/><r>committee<s n="n"/></r></p></e>
 <e slr="0"><p><l>commandant<s n="n"/><s n="mf"/><r>commander<s n="n"/></r></p></e>
 <e slr="0"><p><l>commercie<s n="n"/><s n="f"/><r>commerce<s n="n"/></r></p></e>
 <e slr="0"><p><l>commissaris<s n="n"/><s n="m"/><r>commissioner<s n="n"/></r></p></e>
@@ -1683,7 +1684,7 @@
 <e slr="0"><p><l>concertgebouw<s n="n"/><s n="nt"/><r>concert<b/>hall<s n="n"/></r></p></e>
 <e slr="0"><p><l>concertmeester<s n="n"/><s n="m"/><r>concertmaster<s n="n"/></r></p></e>
 <e slr="0"><p><l>concertzaal<s n="n"/><s n="mf"/><r>concert<s n="n"/></r></p></e>
-<e slr="0"><p><l>conci%C3%ABrge<s n="n"/><s n="m"/><r>concierge<s n="n"/></r></p></e>
+<e slr="0"><p><l>conciërge<s n="n"/><s n="m"/><r>concierge<s n="n"/></r></p></e>
 <e slr="0"><p><l>conclaaf<s n="n"/><s n="nt"/><r>conclave<s n="n"/></r></p></e>
 <e slr="0"><p><l>condensator<s n="n"/><s n="m"/><r>capacitor<s n="n"/></r></p></e>
 <e slr="0"><p><l>conditie<s n="n"/><s n="f"/><r>condition<s n="n"/></r></p></e>
@@ -1717,8 +1718,8 @@
 <e slr="0"><p><l>contactlens<s n="n"/><s n="f"/><r>contact<b/>lens<s n="n"/></r></p></e>
 <e slr="0"><p><l>contactsleutel<s n="n"/><s n="m"/><r>car<s n="n"/></r></p></e>
 <e slr="0"><p><l>continent<s n="n"/><s n="nt"/><r>continent<s n="n"/></r></p></e>
-<e slr="0"><p><l>continu%C3%AFteit<s n="n"/><s n="f"/><r>continuity<s n="n"/></r></p></e>
-<e slr="0"><p><l>continu%C3%AFteitsvergelijking<s n="n"/><s n="mf"/><r>continuity<s n="n"/></r></p></e>
+<e slr="0"><p><l>continuïteit<s n="n"/><s n="f"/><r>continuity<s n="n"/></r></p></e>
+<e slr="0"><p><l>continuïteitsvergelijking<s n="n"/><s n="mf"/><r>continuity<s n="n"/></r></p></e>
 <e slr="0"><p><l>contrabas<s n="n"/><s n="mf"/><r>double<b/>bass<s n="n"/></r></p></e>
 <e slr="0"><p><l>contract<s n="n"/><s n="nt"/><r>contract<s n="n"/></r></p></e>
 <e slr="0"><p><l>contragewicht<s n="n"/><s n="nt"/><r>counterweight<s n="n"/></r></p></e>
@@ -1759,8 +1760,8 @@
 <e slr="2"><p><l>coureur<s n="n"/><s n="m"/><r>auto<s n="n"/></r></p></e>
 <e slr="0"><p><l>couvert<s n="n"/><s n="nt"/><r>cutlery<s n="n"/></r></p></e>
 <e slr="0"><p><l>coyote<s n="n"/><s n="m"/><r>coyote<s n="n"/></r></p></e>
-<e slr="0"><p><l>co%C3%ABffici%C3%ABnt<s n="n"/><s n="m"/><r>coefficient<s n="n"/></r></p></e>
-<e slr="0"><p><l>co%C3%B6rdinaat<s n="n"/><s n="mf"/><r>coordinate<s n="n"/></r></p></e>
+<e slr="0"><p><l>coëfficiënt<s n="n"/><s n="m"/><r>coefficient<s n="n"/></r></p></e>
+<e slr="0"><p><l>coördinaat<s n="n"/><s n="mf"/><r>coordinate<s n="n"/></r></p></e>
 <e slr="0"><p><l>creatie<s n="n"/><s n="f"/><r>creation<s n="n"/></r></p></e>
 <e slr="0"><p><l>creativiteit<s n="n"/><s n="f"/><r>creativity<s n="n"/></r></p></e>
 <e slr="0"><p><l>crematie<s n="n"/><s n="f"/><r>cremation<s n="n"/></r></p></e>
@@ -1812,11 +1813,11 @@
 <e slr="0"><p><l>dal<s n="n"/><s n="nt"/><r>valley<s n="n"/></r></p></e>
 <e slr="0"><p><l>daling<s n="n"/><s n="f"/><r>decline<s n="n"/></r></p></e>
 <e slr="1"><p><l>daling<s n="n"/><s n="f"/><r>descent<s n="n"/></r></p></e>
-<e slr="0"><p><l>dalmati%C3%ABr<s n="n"/><s n="m"/><r>Dalmatian<s n="n"/></r></p></e>
-<e slr="0"><p><l>Dalmati%C3%ABr<s n="n"/><s n="m"/><r>Dalmatia<s n="n"/></r></p></e>
-<e slr="1"><p><l>Dalmati%C3%ABr<s n="n"/><s n="m"/><r>Dalmati<s n="n"/></r></p></e>
+<e slr="0"><p><l>dalmatiër<s n="n"/><s n="m"/><r>Dalmatian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Dalmatiër<s n="n"/><s n="m"/><r>Dalmatia<s n="n"/></r></p></e>
+<e slr="1"><p><l>Dalmatiër<s n="n"/><s n="m"/><r>Dalmati<s n="n"/></r></p></e>
 <e slr="0"><p><l>dam<s n="n"/><s n="m"/><r>dam<s n="n"/></r></p></e>
-<e slr="0"><p><l>damass%C3%A9<s n="n"/><s n="nt"/><r>damassé<s n="n"/></r></p></e>
+<e slr="0"><p><l>damassé<s n="n"/><s n="nt"/><r>damassé<s n="n"/></r></p></e>
 <e slr="0"><p><l>damast<s n="n"/><s n="nt"/><r>damask<s n="n"/></r></p></e>
 <e slr="1"><p><l>damast<s n="n"/><s n="nt"/><r>pattern<s n="n"/></r></p></e>
 <e slr="0"><p><l>damespistooltje<s n="n"/><s n="nt"/><r>pistol<s n="n"/></r></p></e>
@@ -1876,7 +1877,7 @@
 <e slr="0"><p><l>deernis<s n="n"/><s n="f"/><r>pity<s n="n"/></r></p></e>
 <e slr="0"><p><l>defaitisme<s n="n"/><s n="nt"/><r>defeatism<s n="n"/></r></p></e>
 <e slr="0"><p><l>defecatie<s n="n"/><s n="f"/><r>defecation<s n="n"/></r></p></e>
-<e slr="0"><p><l>defil%C3%A9<s n="n"/><s n="nt"/><r>parade<s n="n"/></r></p></e>
+<e slr="0"><p><l>defilé<s n="n"/><s n="nt"/><r>parade<s n="n"/></r></p></e>
 <e slr="0"><p><l>definitie<s n="n"/><s n="f"/><r>definition<s n="n"/></r></p></e>
 <e slr="0"><p><l>degen<s n="n"/><s n="m"/><r>epee<s n="n"/></r></p></e>
 <e slr="0"><p><l>degustatie<s n="n"/><s n="f"/><r>winetasting<s n="n"/></r></p></e>
@@ -1937,8 +1938,8 @@
 <e slr="0"><p><l>designer<s n="n"/><s n="m"/><r>designer<s n="n"/></r></p></e>
 <e slr="0"><p><l>desinformatie<s n="n"/><s n="f"/><r>disinformation<s n="n"/></r></p></e>
 <e slr="0"><p><l>deskundige<s n="n"/><s n="mf"/><r>expert<s n="n"/></r></p></e>
-<e slr="0"><p><l>desori%C3%ABntatie<s n="n"/><s n="f"/><r>disorientation<s n="n"/></r></p></e>
-<e slr="0"><p><l>desoxyribonucle%C3%AFnezuur<s n="n"/><s n="nt"/><r>deoxyribonucleic<b/>acid<s n="n"/></r></p></e>
+<e slr="0"><p><l>desoriëntatie<s n="n"/><s n="f"/><r>disorientation<s n="n"/></r></p></e>
+<e slr="0"><p><l>desoxyribonucleïnezuur<s n="n"/><s n="nt"/><r>deoxyribonucleic<b/>acid<s n="n"/></r></p></e>
 <e slr="0"><p><l>destalinisatie<s n="n"/><s n="f"/><r>destalinization<s n="n"/></r></p></e>
 <e slr="0"><p><l>destillatie<s n="n"/><s n="f"/><r>distillation<s n="n"/></r></p></e>
 <e slr="0"><p><l>detacheringsbedrijf<s n="n"/><s n="nt"/><r>contracting<s n="n"/></r></p></e>
@@ -2013,7 +2014,7 @@
 <e slr="0"><p><l>ding<s n="n"/><s n="nt"/><r>matter<s n="n"/></r></p></e>
 <e slr="0"><p><l>dinges<s n="n"/><s n="mf"/><r>thingamajig<s n="n"/></r></p></e>
 <e slr="1"><p><l>dinges<s n="n"/><s n="mf"/><r>whatshisname<s n="n"/></r></p></e>
-<e slr="0"><p><l>dinosauri%C3%ABr<s n="n"/><s n="m"/><r>dinosaur<s n="n"/></r></p></e>
+<e slr="0"><p><l>dinosauriër<s n="n"/><s n="m"/><r>dinosaur<s n="n"/></r></p></e>
 <e slr="0"><p><l>dinsdag<s n="n"/><s n="m"/><r>Tuesday<s n="n"/></r></p></e>
 <e slr="0"><p><l>dioxide<s n="n"/><s n="nt"/><r>dioxide<s n="n"/></r></p></e>
 <e slr="0"><p><l>diploma<s n="n"/><s n="nt"/><r>diploma<s n="n"/></r></p></e>
@@ -2027,7 +2028,7 @@
 <e slr="0"><p><l>dirigent<s n="n"/><s n="m"/><r>conductor<s n="n"/></r></p></e>
 <e slr="1"><p><l>dirigent<s n="n"/><s n="m"/><r>director<s n="n"/></r></p></e>
 <e slr="0"><p><l>discipel<s n="n"/><s n="m"/><r>disciple<s n="n"/></r></p></e>
-<e slr="0"><p><l>discontinu%C3%AFteit<s n="n"/><s n="f"/><r>discontinuity<s n="n"/></r></p></e>
+<e slr="0"><p><l>discontinuïteit<s n="n"/><s n="f"/><r>discontinuity<s n="n"/></r></p></e>
 <e slr="0"><p><l>discours<s n="n"/><s n="nt"/><r>discourse<s n="n"/></r></p></e>
 <e slr="0"><p><l>discrepantie<s n="n"/><s n="f"/><r>discrepancy<s n="n"/></r></p></e>
 <e slr="0"><p><l>discretie<s n="n"/><s n="f"/><r>discretion<s n="n"/></r></p></e>
@@ -2047,7 +2048,7 @@
 <e slr="0"><p><l>district<s n="n"/><s n="nt"/><r>district<s n="n"/></r></p></e>
 <e slr="0"><p><l>diversen<s n="n"/><s n="mf"/><r>miscellanies<s n="n"/></r></p></e>
 <e slr="0"><p><l>dizuurstof<s n="n"/><s n="mf"/><r>dioxygen<s n="n"/></r></p></e>
-<e slr="0"><p><l>djemb%C3%A9<s n="n"/><s n="m"/><r>djembe<s n="n"/></r></p></e>
+<e slr="0"><p><l>djembé<s n="n"/><s n="m"/><r>djembe<s n="n"/></r></p></e>
 <e slr="0"><p><l>do<s n="n"/><s n="mf"/><r>do<s n="n"/></r></p></e>
 <e slr="1"><p><l>do<s n="n"/><s n="mf"/><r>C<s n="n"/></r></p></e>
 <e slr="0"><p><l>dobbelsteen<s n="n"/><s n="m"/><r>die<s n="n"/></r></p></e>
@@ -2059,7 +2060,7 @@
 <e slr="0"><p><l>dode<s n="n"/><s n="m"/><r>deceased<s n="n"/></r></p></e>
 <e slr="1"><p><l>dode<s n="n"/><s n="m"/><r>casualty<s n="n"/></r></p></e>
 <e slr="0"><p><l>dodecaphonist<s n="n"/><s n="m"/><r>dodecafonist<s n="n"/></r></p></e>
-<e slr="0"><p><l>dodeca%C3%ABder<s n="n"/><s n="m"/><r>dodecahedron<s n="n"/></r></p></e>
+<e slr="0"><p><l>dodecaëder<s n="n"/><s n="m"/><r>dodecahedron<s n="n"/></r></p></e>
 <e slr="0"><p><l>dodenmis<s n="n"/><s n="mf"/><r>requiem<s n="n"/></r></p></e>
 <e slr="0"><p><l>dodental<s n="n"/><s n="nt"/><r>death<s n="n"/></r></p></e>
 <e slr="0"><p><l>dodenwake<s n="n"/><s n="mf"/><r>wake<s n="n"/></r></p></e>
@@ -2268,7 +2269,7 @@
 <e slr="0"><p><l>dysforie<s n="n"/><s n="mf"/><r>dysphoria<s n="n"/></r></p></e>
 <e slr="0"><p><l>dyslexie<s n="n"/><s n="f"/><r>dyslexia<s n="n"/></r></p></e>
 <e slr="0"><p><l>dysprosium<s n="n"/><s n="nt"/><r>dysprosium<s n="n"/></r></p></e>
-<e slr="0"><p><l>d%C4%B3k<s n="n"/><s n="m"/><r>dike<s n="n"/></r></p></e>
+<e slr="0"><p><l>dijk<s n="n"/><s n="m"/><r>dike<s n="n"/></r></p></e>
 <e slr="0"><p><l>e-mail<s n="n"/><s n="m"/><r>e-mail<s n="n"/></r></p></e>
 <e slr="0"><p><l>e-mailadres<s n="n"/><s n="nt"/><r>e-mail<b/>address<s n="n"/></r></p></e>
 <e slr="0"><p><l>eb<s n="n"/><s n="nt"/><r>ebb<s n="n"/></r></p></e>
@@ -2318,7 +2319,7 @@
 <e slr="0"><p><l>eerlijkheid<s n="n"/><s n="f"/><r>honesty<s n="n"/></r></p></e>
 <e slr="0"><p><l>eerste<b/>persoon<s n="n"/><s n="m"/><r>first<b/>person<s n="n"/></r></p></e>
 <e slr="0"><p><l>eetappel<s n="n"/><s n="m"/><r>apple<s n="n"/></r></p></e>
-<e slr="0"><p><l>eetcaf%C3%A9<s n="n"/><s n="nt"/><r>bistro<s n="n"/></r></p></e>
+<e slr="0"><p><l>eetcafé<s n="n"/><s n="nt"/><r>bistro<s n="n"/></r></p></e>
 <e slr="0"><p><l>eetkamer<s n="n"/><s n="f"/><r>dining<b/>room<s n="n"/></r></p></e>
 <e slr="0"><p><l>eetlepel<s n="n"/><s n="m"/><r>tablespoon<s n="n"/></r></p></e>
 <e slr="0"><p><l>eetstokje<s n="n"/><s n="nt"/><r>chopstick<s n="n"/></r></p></e>
@@ -2327,11 +2328,11 @@
 <e slr="0"><p><l>eeuwwisseling<s n="n"/><s n="f"/><r>turn<b/>of<b/>the<b/>century<s n="n"/></r></p></e>
 <e slr="0"><p><l>effect<s n="n"/><s n="nt"/><r>effect<s n="n"/></r></p></e>
 <e slr="0"><p><l>effectiviteit<s n="n"/><s n="f"/><r>effectiveness<s n="n"/></r></p></e>
-<e slr="0"><p><l>effici%C3%ABntie<s n="n"/><s n="f"/><r>efficiency<s n="n"/></r></p></e>
+<e slr="0"><p><l>efficiëntie<s n="n"/><s n="f"/><r>efficiency<s n="n"/></r></p></e>
 <e slr="0"><p><l>ego<s n="n"/><s n="nt"/><r>ego<s n="n"/></r></p></e>
 <e slr="0"><p><l>egodocument<s n="n"/><s n="nt"/><r>diaries<s n="n"/></r></p></e>
-<e slr="0"><p><l>ego%C3%AFsme<s n="n"/><s n="nt"/><r>egoism<s n="n"/></r></p></e>
-<e slr="0"><p><l>ego%C3%AFst<s n="n"/><s n="m"/><r>egoist<s n="n"/></r></p></e>
+<e slr="0"><p><l>egoïsme<s n="n"/><s n="nt"/><r>egoism<s n="n"/></r></p></e>
+<e slr="0"><p><l>egoïst<s n="n"/><s n="m"/><r>egoist<s n="n"/></r></p></e>
 <e slr="0"><p><l>Egyptenaar<s n="n"/><s n="m"/><r>Egyptian<s n="n"/></r></p></e>
 <e slr="0"><p><l>ei<s n="n"/><s n="nt"/><r>egg<s n="n"/></r></p></e>
 <e slr="0"><p><l>eidetisch<b/>geheugen<s n="n"/><s n="nt"/><r>eidetic<b/>memory<s n="n"/></r></p></e>
@@ -2421,8 +2422,8 @@
 <e slr="0"><p><l>enkel<s n="n"/><s n="m"/><r>ankle<s n="n"/></r></p></e>
 <e slr="0"><p><l>enkeltje<s n="n"/><s n="m"/><r>one-way<b/>ticket<s n="n"/></r></p></e>
 <e slr="0"><p><l>enkelzijbandmodulatie<s n="n"/><s n="mf"/><r>single<s n="n"/></r></p></e>
-<e slr="0"><p><l>enqu%C3%AAte<s n="n"/><s n="mf"/><r>survey<s n="n"/></r></p></e>
-<e slr="1"><p><l>enqu%C3%AAte<s n="n"/><s n="mf"/><r>investigation<s n="n"/></r></p></e>
+<e slr="0"><p><l>enquête<s n="n"/><s n="mf"/><r>survey<s n="n"/></r></p></e>
+<e slr="1"><p><l>enquête<s n="n"/><s n="mf"/><r>investigation<s n="n"/></r></p></e>
 <e slr="0"><p><l>enscenering<s n="n"/><s n="f"/><r>stage<s n="n"/></r></p></e>
 <e slr="1"><p><l>enscenering<s n="n"/><s n="f"/><r>presentation<s n="n"/></r></p></e>
 <e slr="0"><p><l>ensemble<s n="n"/><s n="nt"/><r>ensemble<s n="n"/></r></p></e>
@@ -2478,7 +2479,7 @@
 <e slr="1"><p><l>ether<s n="n"/><s n="m"/><r>ether<s n="n"/></r></p></e>
 <e slr="0"><p><l>ethica<s n="n"/><s n="f"/><r>ethics<s n="n"/></r></p></e>
 <e slr="0"><p><l>ethiek<s n="n"/><s n="f"/><r>ethics<s n="n"/></r></p></e>
-<e slr="0"><p><l>Ethiopi%C3%ABr<s n="n"/><s n="m"/><r>Ethiopian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Ethiopiër<s n="n"/><s n="m"/><r>Ethiopian<s n="n"/></r></p></e>
 <e slr="0"><p><l>etiket<s n="n"/><s n="nt"/><r>label<s n="n"/></r></p></e>
 <e slr="0"><p><l>etiologie<s n="n"/><s n="f"/><r>aetiology<s n="n"/></r></p></e>
 <e slr="0"><p><l>etmaal<s n="n"/><s n="nt"/><r>day<s n="n"/></r></p></e>
@@ -2571,7 +2572,7 @@
 <e slr="0"><p><l>fantast<s n="n"/><s n="mf"/><r>fantasizer<s n="n"/></r></p></e>
 <e slr="0"><p><l>farad<s n="n"/><s n="m"/><r>farad<s n="n"/></r></p></e>
 <e slr="0"><p><l>farao<s n="n"/><s n="m"/><r>pharaoh<s n="n"/></r></p></e>
-<e slr="0"><p><l>farizee%C3%ABr<s n="n"/><s n="m"/><r>Pharisee<s n="n"/></r></p></e>
+<e slr="0"><p><l>farizeeër<s n="n"/><s n="m"/><r>Pharisee<s n="n"/></r></p></e>
 <e slr="0"><p><l>farmacologie<s n="n"/><s n="f"/><r>pharmacology<s n="n"/></r></p></e>
 <e slr="0"><p><l>farmacoloog<s n="n"/><s n="m"/><r>pharmacologist<s n="n"/></r></p></e>
 <e slr="0"><p><l>fascisme<s n="n"/><s n="nt"/><r>fascism<s n="n"/></r></p></e>
@@ -2596,7 +2597,7 @@
 <e slr="0"><p><l>feitenkennis<s n="n"/><s n="f"/><r>trivial<s n="n"/></r></p></e>
 <e slr="0"><p><l>feminisme<s n="n"/><s n="nt"/><r>feminism<s n="n"/></r></p></e>
 <e slr="0"><p><l>feminist<s n="n"/><s n="mf"/><r>feminist<s n="n"/></r></p></e>
-<e slr="0"><p><l>Fenici%C3%ABr<s n="n"/><s n="m"/><r>Phoenician<s n="n"/></r></p></e>
+<e slr="0"><p><l>Feniciër<s n="n"/><s n="m"/><r>Phoenician<s n="n"/></r></p></e>
 <e slr="0"><p><l>fennek<s n="n"/><s n="m"/><r>fennec<s n="n"/></r></p></e>
 <e slr="0"><p><l>fenomeen<s n="n"/><s n="nt"/><r>phenomenon<s n="n"/></r></p></e>
 <e slr="1"><p><l>fenomeen<s n="n"/><s n="nt"/><r>phenomenon<s n="n"/></r></p></e>
@@ -2657,7 +2658,7 @@
 <e slr="0"><p><l>floers<s n="n"/><s n="nt"/><r>veil<s n="n"/></r></p></e>
 <e slr="1"><p><l>floers<s n="n"/><s n="nt"/><r>darkness<s n="n"/></r></p></e>
 <e slr="0"><p><l>flop<s n="n"/><s n="m"/><r>failure<s n="n"/></r></p></e>
-<e slr="0"><p><l>flo%C3%ABem<s n="n"/><s n="nt"/><r>phloem<s n="n"/></r></p></e>
+<e slr="0"><p><l>floëem<s n="n"/><s n="nt"/><r>phloem<s n="n"/></r></p></e>
 <e slr="0"><p><l>fluit<s n="n"/><s n="m"/><r>flute<s n="n"/></r></p></e>
 <e slr="1"><p><l>fluit<s n="n"/><s n="m"/><r>whistle<s n="n"/></r></p></e>
 <e slr="2"><p><l>fluit<s n="n"/><s n="m"/><r>organ<b/>pipe<s n="n"/></r></p></e>
@@ -2715,10 +2716,11 @@
 <e slr="0"><p><l>frame<s n="n"/><s n="nl}} [[frame#English"/><r>frame<s n="n"/></r></p></e>
 <e slr="0"><p><l>francium<s n="n"/><s n="nt"/><r>francium<s n="n"/></r></p></e>
 <e slr="0"><p><l>franje<s n="n"/><s n="mf"/><r>fringe<s n="n"/></r></p></e>
-<e slr="0"><p><l>Fran%C3%A7aise<s n="n"/><s n="f"/><r>Frenchwoman<s n="n"/></r></p></e>
+<e slr="0"><p><l>Française<s n="n"/><s n="f"/><r>Frenchwoman<s n="n"/></r></p></e>
 <e slr="0"><p><l>fraude<s n="n"/><s n="mf"/><r>fraud<s n="n"/></r></p></e>
 <e slr="0"><p><l>fraudeur<s n="n"/><s n="m"/><r>fraudster<s n="n"/></r></p></e>
 <e slr="0"><p><l>fregat<s n="n"/><s n="nt"/><r>frigate<s n="n"/></r></p></e>
+
 <e slr="0"><p><l>fregatvogel<s n="n"/><s n="m"/><r>frigate<b/>bird<s n="n"/></r></p></e>
 <e slr="0"><p><l>frequentie<s n="n"/><s n="f"/><r>frequency<s n="n"/></r></p></e>
 <e slr="1"><p><l>frequentie<s n="n"/><s n="f"/><r>pulsation<s n="n"/></r></p></e>
@@ -2771,7 +2773,7 @@
 <e slr="0"><p><l>Galicisch<s n="n"/><s n="nt"/><r>Galician<s n="n"/></r></p></e>
 <e slr="0"><p><l>galjoen<s n="n"/><s n="nt"/><r>galleon<s n="n"/></r></p></e>
 <e slr="0"><p><l>gallium<s n="n"/><s n="nt"/><r>gallium<s n="n"/></r></p></e>
-<e slr="0"><p><l>Galli%C3%ABr<s n="n"/><s n="m"/><r>Gaul<s n="n"/></r></p></e>
+<e slr="0"><p><l>Galliër<s n="n"/><s n="m"/><r>Gaul<s n="n"/></r></p></e>
 <e slr="0"><p><l>gammahydroxybutaanzuur<s n="n"/><s n="nt"/><r>gamma-hydroxybutyric<b/>acid<s n="n"/></r></p></e>
 <e slr="0"><p><l>gammahydroxybutyraat<s n="n"/><s n="nt"/><r>gamma<b/>hydroxybutyrate<s n="n"/></r></p></e>
 <e slr="0"><p><l>gander<s n="n"/><s n="m"/><r>goose<s n="n"/></r></p></e>
@@ -2991,7 +2993,7 @@
 <e slr="0"><p><l>geografie<s n="n"/><s n="f"/><r>geography<s n="n"/></r></p></e>
 <e slr="0"><p><l>geologie<s n="n"/><s n="f"/><r>geology<s n="n"/></r></p></e>
 <e slr="0"><p><l>geoloog<s n="n"/><s n="m"/><r>geologist<s n="n"/></r></p></e>
-<e slr="0"><p><l>geori%C3%ABnteerdheid<s n="n"/><s n="f"/><r>orientation<s n="n"/></r></p></e>
+<e slr="0"><p><l>georiënteerdheid<s n="n"/><s n="f"/><r>orientation<s n="n"/></r></p></e>
 <e slr="0"><p><l>gepeupel<s n="n"/><s n="nt"/><r>rabble<s n="n"/></r></p></e>
 <e slr="0"><p><l>geplaag<s n="n"/><s n="nt"/><r>teasing<s n="n"/></r></p></e>
 <e slr="0"><p><l>geraamte<s n="n"/><s n="nt"/><r>skeleton<s n="n"/></r></p></e>
@@ -3112,7 +3114,7 @@
 <e slr="0"><p><l>gezindheid<s n="n"/><s n="f"/><r>disposition<s n="n"/></r></p></e>
 <e slr="0"><p><l>gezondheidszorg<s n="n"/><s n="mf"/><r>health<b/>care<s n="n"/></r></p></e>
 <e slr="0"><p><l>gezwel<s n="n"/><s n="nt"/><r>tumour<s n="n"/></r></p></e>
-<e slr="0"><p><l>ge%C3%AFnteresseerde<s n="n"/><s n="mf"/><r>interested<s n="n"/></r></p></e>
+<e slr="0"><p><l>geïnteresseerde<s n="n"/><s n="mf"/><r>interested<s n="n"/></r></p></e>
 <e slr="0"><p><l>gids<s n="n"/><s n="m"/><r>guide<s n="n"/></r></p></e>
 <e slr="0"><p><l>gier<s n="n"/><s n="m"/><r>vulture<s n="n"/></r></p></e>
 <e slr="1"><p><l>gier<s n="n"/><s n="m"/><r>monster<s n="n"/></r></p></e>
@@ -3445,7 +3447,7 @@
 <e slr="0"><p><l>haver<s n="n"/><s n="m"/><r>Avena<s n="n"/></r></p></e>
 <e slr="1"><p><l>haver<s n="n"/><s n="m"/><r>Avena<b/>sativa<s n="n"/></r></p></e>
 <e slr="0"><p><l>havik<s n="n"/><s n="m"/><r>hawk<s n="n"/></r></p></e>
-<e slr="0"><p><l>Ha%C3%AFtiaan<s n="n"/><s n="m"/><r>Haitian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Haïtiaan<s n="n"/><s n="m"/><r>Haitian<s n="n"/></r></p></e>
 <e slr="0"><p><l>hebbeding<s n="n"/><s n="nt"/><r>gadget<s n="n"/></r></p></e>
 <e slr="0"><p><l>hechtenis<s n="n"/><s n="f"/><r>detention<s n="n"/></r></p></e>
 <e slr="0"><p><l>hedonisme<s n="n"/><s n="f"/><r>hedonism<s n="n"/></r></p></e>
@@ -3590,7 +3592,7 @@
 <e slr="0"><p><l>hinder<s n="n"/><s n="m"/><r>hindrance<s n="n"/></r></p></e>
 <e slr="0"><p><l>hinderlaag<s n="n"/><s n="mf"/><r>ambush<s n="n"/></r></p></e>
 <e slr="0"><p><l>hindernis<s n="n"/><s n="f"/><r>hindrance<s n="n"/></r></p></e>
-<e slr="0"><p><l>hindoe%C3%AFsme<s n="n"/><s n="nt"/><r>Hinduism<s n="n"/></r></p></e>
+<e slr="0"><p><l>hindoeïsme<s n="n"/><s n="nt"/><r>Hinduism<s n="n"/></r></p></e>
 <e slr="0"><p><l>hint<s n="n"/><s n="mf"/><r>hint<s n="n"/></r></p></e>
 <e slr="0"><p><l>hippie<s n="n"/><s n="mf"/><r>hippie<s n="n"/></r></p></e>
 <e slr="0"><p><l>histologie<s n="n"/><s n="f"/><r>histology<s n="n"/></r></p></e>
@@ -3599,8 +3601,8 @@
 <e slr="0"><p><l>hitteberoerte<s n="n"/><s n="mf"/><r>heat<b/>stroke<s n="n"/></r></p></e>
 <e slr="0"><p><l>hittegolf<s n="n"/><s n="mf"/><r>heat<b/>wave<s n="n"/></r></p></e>
 <e slr="0"><p><l>hitteschild<s n="n"/><s n="nt"/><r>heat<s n="n"/></r></p></e>
-<e slr="0"><p><l>hi%C3%ABrarchie<s n="n"/><s n="f"/><r>hierarchy<s n="n"/></r></p></e>
-<e slr="0"><p><l>hi%C3%ABroglief<s n="n"/><s n="mf"/><r>hieroglyph<s n="n"/></r></p></e>
+<e slr="0"><p><l>hiërarchie<s n="n"/><s n="f"/><r>hierarchy<s n="n"/></r></p></e>
+<e slr="0"><p><l>hiëroglief<s n="n"/><s n="mf"/><r>hieroglyph<s n="n"/></r></p></e>
 <e slr="0"><p><l>hobo<s n="n"/><s n="m"/><r>oboe<s n="n"/></r></p></e>
 <e slr="0"><p><l>hockeyer<s n="n"/><s n="m"/><r>hockey<s n="n"/></r></p></e>
 <e slr="0"><p><l>hoed<s n="n"/><s n="m"/><r>hat<s n="n"/></r></p></e>
@@ -3804,7 +3806,7 @@
 <e slr="0"><p><l>huwelijksnacht<s n="n"/><s n="m"/><r>wedding<s n="n"/></r></p></e>
 <e slr="0"><p><l>huzaar<s n="n"/><s n="m"/><r>hussar<s n="n"/></r></p></e>
 <e slr="0"><p><l>hydraat<s n="n"/><s n="nt"/><r>hydrate<s n="n"/></r></p></e>
-<e slr="0"><p><l>hygi%C3%ABne<s n="n"/><s n="mf"/><r>hygiene<s n="n"/></r></p></e>
+<e slr="0"><p><l>hygiëne<s n="n"/><s n="mf"/><r>hygiene<s n="n"/></r></p></e>
 <e slr="0"><p><l>hyperaldosteronisme<s n="n"/><s n="nt"/><r>hyperaldosteronism<s n="n"/></r></p></e>
 <e slr="0"><p><l>hypertensie<s n="n"/><s n="f"/><r>hypertension<s n="n"/></r></p></e>
 <e slr="0"><p><l>hypocriet<s n="n"/><s n="m"/><r>hypocrite<s n="n"/></r></p></e>
@@ -3876,14 +3878,14 @@
 <e slr="0"><p><l>individu<s n="n"/><s n="nt"/><r>individual<s n="n"/></r></p></e>
 <e slr="0"><p><l>individualisme<s n="n"/><s n="nt"/><r>individualism<s n="n"/></r></p></e>
 <e slr="0"><p><l>Indo<s n="n"/><s n="m"/><r>Indonesian<s n="n"/></r></p></e>
-<e slr="0"><p><l>Indonesi%C3%ABr<s n="n"/><s n="m"/><r>Indonesian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Indonesiër<s n="n"/><s n="m"/><r>Indonesian<s n="n"/></r></p></e>
 <e slr="0"><p><l>indringer<s n="n"/><s n="m"/><r>intruder<s n="n"/></r></p></e>
 <e slr="0"><p><l>industrialisering<s n="n"/><s n="f"/><r>industrialisation<s n="n"/></r></p></e>
 <e slr="0"><p><l>industrie<s n="n"/><s n="f"/><r>industry<s n="n"/></r></p></e>
 <e slr="0"><p><l>industrieel<s n="n"/><s n="m"/><r>industrialist<s n="n"/></r></p></e>
 <e slr="1"><p><l>industrieel<s n="n"/><s n="m"/><r>bond<s n="n"/></r></p></e>
 <e slr="0"><p><l>ineenstorting<s n="n"/><s n="f"/><r>collapse<s n="n"/></r></p></e>
-<e slr="0"><p><l>ineffici%C3%ABntie<s n="n"/><s n="f"/><r>inefficiency<s n="n"/></r></p></e>
+<e slr="0"><p><l>inefficiëntie<s n="n"/><s n="f"/><r>inefficiency<s n="n"/></r></p></e>
 <e slr="0"><p><l>inertie<s n="n"/><s n="f"/><r>inertia<s n="n"/></r></p></e>
 <e slr="1"><p><l>inertie<s n="n"/><s n="f"/><r>dynamism<s n="n"/></r></p></e>
 <e slr="0"><p><l>infanterie<s n="n"/><s n="f"/><r>infantry<s n="n"/></r></p></e>
@@ -3978,7 +3980,7 @@
 <e slr="0"><p><l>intoxicatie<s n="n"/><s n="f"/><r>intoxication<s n="n"/></r></p></e>
 <e slr="0"><p><l>intrede<s n="n"/><s n="mf"/><r>entrance<s n="n"/></r></p></e>
 <e slr="0"><p><l>intrigant<s n="n"/><s n="mf"/><r>intriguer<s n="n"/></r></p></e>
-<e slr="0"><p><l>intu%C3%AFtie<s n="n"/><s n="f"/><r>intuition<s n="n"/></r></p></e>
+<e slr="0"><p><l>intuïtie<s n="n"/><s n="f"/><r>intuition<s n="n"/></r></p></e>
 <e slr="0"><p><l>inundatie<s n="n"/><s n="f"/><r>inundation<s n="n"/></r></p></e>
 <e slr="0"><p><l>inval<s n="n"/><s n="m"/><r>inspiration<s n="n"/></r></p></e>
 <e slr="1"><p><l>inval<s n="n"/><s n="m"/><r>bust<s n="n"/></r></p></e>
@@ -4006,7 +4008,7 @@
 <e slr="0"><p><l>inzittende<s n="n"/><s n="mf"/><r>occupant<s n="n"/></r></p></e>
 <e slr="0"><p><l>ionosfeer<s n="n"/><s n="m"/><r>ionosphere<s n="n"/></r></p></e>
 <e slr="0"><p><l>IP-adres<s n="n"/><s n="nt"/><r>IP<b/>address<s n="n"/></r></p></e>
-<e slr="0"><p><l>Irani%C3%ABr<s n="n"/><s n="mf"/><r>Iranian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Iraniër<s n="n"/><s n="mf"/><r>Iranian<s n="n"/></r></p></e>
 <e slr="0"><p><l>iridium<s n="n"/><s n="nt"/><r>iridium<s n="n"/></r></p></e>
 <e slr="0"><p><l>irritatie<s n="n"/><s n="f"/><r>irritation<s n="n"/></r></p></e>
 <e slr="0"><p><l>ischemie<s n="n"/><s n="f"/><r>ischaemia<s n="n"/></r></p></e>
@@ -4052,7 +4054,7 @@
 <e slr="0"><p><l>jenever<s n="n"/><s n="m"/><r>Dutch<b/>gin<s n="n"/></r></p></e>
 <e slr="0"><p><l>jeugdigheid<s n="n"/><s n="f"/><r>youthfulness<s n="n"/></r></p></e>
 <e slr="0"><p><l>jeugdpuistjes<s n="n"/><s n="nt"/><r>acne<s n="n"/></r></p></e>
-<e slr="0"><p><l>jezu%C3%AFet<s n="n"/><s n="m"/><r>Jesuit<s n="n"/></r></p></e>
+<e slr="0"><p><l>jezuïet<s n="n"/><s n="m"/><r>Jesuit<s n="n"/></r></p></e>
 <e slr="0"><p><l>jicht<s n="n"/><s n="mf"/><r>gout<s n="n"/></r></p></e>
 <e slr="0"><p><l>joch<s n="n"/><s n="nt"/><r>fellow<s n="n"/></r></p></e>
 <e slr="0"><p><l>jodium<s n="n"/><s n="nt"/><r>iodine<s n="n"/></r></p></e>
@@ -5134,8 +5136,8 @@
 <e slr="1"><p><l>lik<s n="n"/><s n="m"/><r>jail<s n="n"/></r></p></e>
 <e slr="0"><p><l>likdoorn<s n="n"/><s n="m"/><r>callus<s n="n"/></r></p></e>
 <e slr="0"><p><l>limoen<s n="n"/><s n="f"/><r>lime<s n="n"/></r></p></e>
-<e slr="0"><p><l>lingu%C3%AFst<s n="n"/><s n="m"/><r>linguist<s n="n"/></r></p></e>
-<e slr="0"><p><l>lingu%C3%AFstiek<s n="n"/><s n="f"/><r>linguistics<s n="n"/></r></p></e>
+<e slr="0"><p><l>linguïst<s n="n"/><s n="m"/><r>linguist<s n="n"/></r></p></e>
+<e slr="0"><p><l>linguïstiek<s n="n"/><s n="f"/><r>linguistics<s n="n"/></r></p></e>
 <e slr="0"><p><l>linkerhand<s n="n"/><s n="mf"/><r>hand<s n="n"/></r></p></e>
 <e slr="0"><p><l>linnen<s n="n"/><s n="nt"/><r>linen<s n="n"/></r></p></e>
 <e slr="0"><p><l>lintworm<s n="n"/><s n="m"/><r>tapeworm<s n="n"/></r></p></e>
@@ -5165,7 +5167,7 @@
 <e slr="0"><p><l>logica<s n="n"/><s n="f"/><r>logic<s n="n"/></r></p></e>
 <e slr="0"><p><l>logies<s n="n"/><s n="nt"/><r>lodging<s n="n"/></r></p></e>
 <e slr="1"><p><l>logies<s n="n"/><s n="nt"/><r>bed<b/>and<b/>breakfast<s n="n"/></r></p></e>
-<e slr="0"><p><l>log%C3%A9<s n="n"/><s n="m"/><r>overnight<s n="n"/></r></p></e>
+<e slr="0"><p><l>logé<s n="n"/><s n="m"/><r>overnight<s n="n"/></r></p></e>
 <e slr="0"><p><l>lok<s n="n"/><s n="f"/><r>lock<s n="n"/></r></p></e>
 <e slr="1"><p><l>lok<s n="n"/><s n="f"/><r>curl<s n="n"/></r></p></e>
 <e slr="0"><p><l>lokalisatie<s n="n"/><s n="f"/><r>localization<s n="n"/></r></p></e>
@@ -5331,8 +5333,8 @@
 <e slr="1"><p><l>mantel<s n="n"/><s n="m"/><r>surface<s n="n"/></r></p></e>
 <e slr="0"><p><l>manuscript<s n="n"/><s n="nt"/><r>manuscript<s n="n"/></r></p></e>
 <e slr="0"><p><l>manusje-van-alles<s n="n"/><s n="nt"/><r>handyman<s n="n"/></r></p></e>
-<e slr="0"><p><l>mao%C3%AFsme<s n="n"/><s n="nt"/><r>Maoism<s n="n"/></r></p></e>
-<e slr="0"><p><l>mao%C3%AFst<s n="n"/><s n="mf"/><r>Maoist<s n="n"/></r></p></e>
+<e slr="0"><p><l>maoïsme<s n="n"/><s n="nt"/><r>Maoism<s n="n"/></r></p></e>
+<e slr="0"><p><l>maoïst<s n="n"/><s n="mf"/><r>Maoist<s n="n"/></r></p></e>
 <e slr="0"><p><l>map<s n="n"/><s n="f"/><r>folder<s n="n"/></r></p></e>
 <e slr="1"><p><l>map<s n="n"/><s n="f"/><r>directory<s n="n"/></r></p></e>
 <e slr="0"><p><l>marathon<s n="n"/><s n="m"/><r>marathon<s n="n"/></r></p></e>
@@ -5388,7 +5390,7 @@
 <e slr="1"><p><l>mauwer<s n="n"/><s n="m"/><r>infant<s n="n"/></r></p></e>
 <e slr="0"><p><l>mayonaise<s n="n"/><s n="m"/><r>mayonnaise<s n="n"/></r></p></e>
 <e slr="0"><p><l>mazelen<s n="n"/><s n="p"/><r>measles<s n="n"/></r></p></e>
-<e slr="0"><p><l>ma%C3%AEtre<s n="n"/><s n="m"/><r>master<s n="n"/></r></p></e>
+<e slr="0"><p><l>maître<s n="n"/><s n="m"/><r>master<s n="n"/></r></p></e>
 <e slr="0"><p><l>medaille<s n="n"/><s n="m"/><r>medal<s n="n"/></r></p></e>
 <e slr="1"><p><l>medaille<s n="n"/><s n="m"/><r>decoration<s n="n"/></r></p></e>
 <e slr="0"><p><l>mede<s n="n"/><s n="m"/><r>mead<s n="n"/></r></p></e>
@@ -5639,7 +5641,7 @@
 <e slr="0"><p><l>Mongool<s n="n"/><s n="m"/><r>Mongol<s n="n"/></r></p></e>
 <e slr="0"><p><l>monnik<s n="n"/><s n="m"/><r>monk<s n="n"/></r></p></e>
 <e slr="0"><p><l>monniksgier<s n="n"/><s n="m"/><r>bird<b/>of<b/>prey<s n="n"/></r></p></e>
-<e slr="0"><p><l>monothe%C3%AFsme<s n="n"/><s n="nt"/><r>monotheism<s n="n"/></r></p></e>
+<e slr="0"><p><l>monotheïsme<s n="n"/><s n="nt"/><r>monotheism<s n="n"/></r></p></e>
 <e slr="0"><p><l>monoxide<s n="n"/><s n="nt"/><r>monoxide<s n="n"/></r></p></e>
 <e slr="0"><p><l>monster<s n="n"/><s n="nt"/><r>monster<s n="n"/></r></p></e>
 <e slr="1"><p><l>monster<s n="n"/><s n="nt"/><r>antisocial<s n="n"/></r></p></e>
@@ -5668,7 +5670,7 @@
 <e slr="1"><p><l>mortaliteit<s n="n"/><s n="f"/><r>statistic<s n="n"/></r></p></e>
 <e slr="0"><p><l>mos<s n="n"/><s n="nt"/><r>moss<s n="n"/></r></p></e>
 <e slr="0"><p><l>moskee<s n="n"/><s n="f"/><r>mosque<s n="n"/></r></p></e>
-<e slr="0"><p><l>Moskovi%C3%ABr<s n="n"/><s n="m"/><r>Muscovian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Moskoviër<s n="n"/><s n="m"/><r>Muscovian<s n="n"/></r></p></e>
 <e slr="0"><p><l>moslim<s n="n"/><s n="mf"/><r>Muslim<s n="n"/></r></p></e>
 <e slr="0"><p><l>mossel<s n="n"/><s n="mf"/><r>mussel<s n="n"/></r></p></e>
 <e slr="0"><p><l>mosterd<s n="n"/><s n="m"/><r>mustard<s n="n"/></r></p></e>
@@ -5939,7 +5941,7 @@
 <e slr="1"><p><l>nuchterheid<s n="n"/><s n="f"/><r>level-headedness<s n="n"/></r></p></e>
 <e slr="0"><p><l>nulliteit<s n="n"/><s n="f"/><r>insignificance<s n="n"/></r></p></e>
 <e slr="1"><p><l>nulliteit<s n="n"/><s n="f"/><r>cipher<s n="n"/></r></p></e>
-<e slr="0"><p><l>Numidi%C3%ABr<s n="n"/><s n="m"/><r>Numidian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Numidiër<s n="n"/><s n="m"/><r>Numidian<s n="n"/></r></p></e>
 <e slr="0"><p><l>nummer<s n="n"/><s n="nt"/><r>number<s n="n"/></r></p></e>
 <e slr="1"><p><l>nummer<s n="n"/><s n="nt"/><r>song<s n="n"/></r></p></e>
 <e slr="0"><p><l>nut<s n="n"/><s n="nt"/><r>use<s n="n"/></r></p></e>
@@ -5958,8 +5960,8 @@
 <e slr="0"><p><l>odalisk<s n="n"/><s n="f"/><r>odalisque<s n="n"/></r></p></e>
 <e slr="0"><p><l>oefening<s n="n"/><s n="f"/><r>exercise<s n="n"/></r></p></e>
 <e slr="0"><p><l>oefenwedstrijd<s n="n"/><s n="m"/><r>warm-up<s n="n"/></r></p></e>
-<e slr="0"><p><l>Oekra%C3%AFens<s n="n"/><s n="nt"/><r>Slave<s n="n"/></r></p></e>
-<e slr="0"><p><l>Oekra%C3%AFner<s n="n"/><s n="nt"/><r>Ukrainian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Oekraïens<s n="n"/><s n="nt"/><r>Slave<s n="n"/></r></p></e>
+<e slr="0"><p><l>Oekraïner<s n="n"/><s n="nt"/><r>Ukrainian<s n="n"/></r></p></e>
 <e slr="0"><p><l>oelewapper<s n="n"/><s n="mf"/><r>nincompoop<s n="n"/></r></p></e>
 <e slr="0"><p><l>oenologie<s n="n"/><s n="f"/><r>oenology<s n="n"/></r></p></e>
 <e slr="0"><p><l>oer<s n="n"/><s n="nt"/><r>ferrous<s n="n"/></r></p></e>
@@ -6089,7 +6091,7 @@
 <e slr="0"><p><l>onderwijzeres<s n="n"/><s n="f"/><r>teacher<s n="n"/></r></p></e>
 <e slr="0"><p><l>onderwijzing<s n="n"/><s n="f"/><r>teaching<s n="n"/></r></p></e>
 <e slr="0"><p><l>onderworpenheid<s n="n"/><s n="f"/><r>submissiveness<s n="n"/></r></p></e>
-<e slr="0"><p><l>onderzee%C3%ABr<s n="n"/><s n="m"/><r>submarine<s n="n"/></r></p></e>
+<e slr="0"><p><l>onderzeeër<s n="n"/><s n="m"/><r>submarine<s n="n"/></r></p></e>
 <e slr="0"><p><l>onderzoek<s n="n"/><s n="nt"/><r>research<s n="n"/></r></p></e>
 <e slr="1"><p><l>onderzoek<s n="n"/><s n="nt"/><r>investigation<s n="n"/></r></p></e>
 <e slr="0"><p><l>onderzoeker<s n="n"/><s n="m"/><r>researcher<s n="n"/></r></p></e>
@@ -6328,7 +6330,7 @@
 <e slr="0"><p><l>organisatie<s n="n"/><s n="f"/><r>organization<s n="n"/></r></p></e>
 <e slr="0"><p><l>orgel<s n="n"/><s n="nt"/><r>organ<s n="n"/></r></p></e>
 <e slr="0"><p><l>Oriental<s n="n"/><s n="m"/><r>Oriental<s n="n"/></r></p></e>
-<e slr="0"><p><l>ori%C3%ABntatie<s n="n"/><s n="f"/><r>orientation<s n="n"/></r></p></e>
+<e slr="0"><p><l>oriëntatie<s n="n"/><s n="f"/><r>orientation<s n="n"/></r></p></e>
 <e slr="0"><p><l>ork<s n="n"/><s n="m"/><r>orc<s n="n"/></r></p></e>
 <e slr="0"><p><l>orkest<s n="n"/><s n="nt"/><r>orchestra<s n="n"/></r></p></e>
 <e slr="0"><p><l>orogenese<s n="n"/><s n="f"/><r>orogenesis<s n="n"/></r></p></e>
@@ -6409,8 +6411,8 @@
 <e slr="0"><p><l>oxidatie<s n="n"/><s n="f"/><r>oxidation<s n="n"/></r></p></e>
 <e slr="0"><p><l>oxide<s n="n"/><s n="nt"/><r>oxide<s n="n"/></r></p></e>
 <e slr="0"><p><l>ozonlaag<s n="n"/><s n="mf"/><r>ozone<b/>layer<s n="n"/></r></p></e>
-<e slr="0"><p><l>o%C3%B6cyt<s n="n"/><s n="m"/><r>oocyte<s n="n"/></r></p></e>
-<e slr="0"><p><l>o%C3%B6logie<s n="n"/><s n="f"/><r>oology<s n="n"/></r></p></e>
+<e slr="0"><p><l>oöcyt<s n="n"/><s n="m"/><r>oocyte<s n="n"/></r></p></e>
+<e slr="0"><p><l>oölogie<s n="n"/><s n="f"/><r>oology<s n="n"/></r></p></e>
 <e slr="0"><p><l>paal<s n="n"/><s n="m"/><r>post<s n="n"/></r></p></e>
 <e slr="1"><p><l>paal<s n="n"/><s n="m"/><r>goalpost<s n="n"/></r></p></e>
 <e slr="2"><p><l>paal<s n="n"/><s n="m"/><r>pale<s n="n"/></r></p></e>
@@ -6528,10 +6530,10 @@
 <e slr="0"><p><l>paternalisme<s n="n"/><s n="nt"/><r>paternalism<s n="n"/></r></p></e>
 <e slr="0"><p><l>pathologie<s n="n"/><s n="f"/><r>pathology<s n="n"/></r></p></e>
 <e slr="0"><p><l>patholoog<s n="n"/><s n="m"/><r>pathologist<s n="n"/></r></p></e>
-<e slr="0"><p><l>pati%C3%ABnt<s n="n"/><s n="m"/><r>patient<s n="n"/></r></p></e>
+<e slr="0"><p><l>patiënt<s n="n"/><s n="m"/><r>patient<s n="n"/></r></p></e>
 <e slr="0"><p><l>patriarchaat<s n="n"/><s n="nt"/><r>patriarchy<s n="n"/></r></p></e>
-<e slr="0"><p><l>patrici%C3%ABr<s n="n"/><s n="m"/><r>patrician<s n="n"/></r></p></e>
-<e slr="1"><p><l>patrici%C3%ABr<s n="n"/><s n="m"/><r>aristocrat<s n="n"/></r></p></e>
+<e slr="0"><p><l>patriciër<s n="n"/><s n="m"/><r>patrician<s n="n"/></r></p></e>
+<e slr="1"><p><l>patriciër<s n="n"/><s n="m"/><r>aristocrat<s n="n"/></r></p></e>
 <e slr="0"><p><l>patrijs<s n="n"/><s n="f"/><r>partridge<s n="n"/></r></p></e>
 <e slr="0"><p><l>patriot<s n="n"/><s n="m"/><r>patriot<s n="n"/></r></p></e>
 <e slr="0"><p><l>patroon<s n="n"/><s n="mf"/><r>boss<s n="n"/></r></p></e>
@@ -6657,7 +6659,7 @@
 <e slr="1"><p><l>pinda<s n="n"/><s n="m"/><r>annual<s n="n"/></r></p></e>
 <e slr="2"><p><l>pinda<s n="n"/><s n="m"/><r>snack<s n="n"/></r></p></e>
 <e slr="3"><p><l>pinda<s n="n"/><s n="m"/><r>East<b/>Asia<s n="n"/></r></p></e>
-<e slr="0"><p><l>pingu%C3%AFn<s n="n"/><s n="m"/><r>penguin<s n="n"/></r></p></e>
+<e slr="0"><p><l>pinguïn<s n="n"/><s n="m"/><r>penguin<s n="n"/></r></p></e>
 <e slr="0"><p><l>pink<s n="n"/><s n="m"/><r>pinkie<s n="n"/></r></p></e>
 <e slr="1"><p><l>pink<s n="n"/><s n="m"/><r>calf<s n="n"/></r></p></e>
 <e slr="2"><p><l>pink<s n="n"/><s n="m"/><r>pink<s n="n"/></r></p></e>
@@ -6700,7 +6702,7 @@
 <e slr="2"><p><l>plan<s n="n"/><s n="nt"/><r>map<s n="n"/></r></p></e>
 <e slr="0"><p><l>planeet<s n="n"/><s n="f"/><r>planet<s n="n"/></r></p></e>
 <e slr="1"><p><l>planeet<s n="n"/><s n="f"/><r>astrology<s n="n"/></r></p></e>
-<e slr="0"><p><l>planeto%C3%AFde<s n="n"/><s n="f"/><r>planetoid<s n="n"/></r></p></e>
+<e slr="0"><p><l>planetoïde<s n="n"/><s n="f"/><r>planetoid<s n="n"/></r></p></e>
 <e slr="0"><p><l>plank<s n="n"/><s n="mf"/><r>plank<s n="n"/></r></p></e>
 <e slr="0"><p><l>plant<s n="n"/><s n="m"/><r>cabbage<s n="n"/></r></p></e>
 <e slr="0"><p><l>plantage<s n="n"/><s n="f"/><r>plantation<s n="n"/></r></p></e>
@@ -6798,7 +6800,7 @@
 <e slr="0"><p><l>polyglot<s n="n"/><s n="m"/><r>polyglot<s n="n"/></r></p></e>
 <e slr="1"><p><l>polyglot<s n="n"/><s n="m"/><r>publication<s n="n"/></r></p></e>
 <e slr="0"><p><l>polymeer<s n="n"/><s n="nt"/><r>polymer<s n="n"/></r></p></e>
-<e slr="0"><p><l>polythe%C3%AFsme<s n="n"/><s n="nt"/><r>polytheism<s n="n"/></r></p></e>
+<e slr="0"><p><l>polytheïsme<s n="n"/><s n="nt"/><r>polytheism<s n="n"/></r></p></e>
 <e slr="0"><p><l>pomp<s n="n"/><s n="f"/><r>pump<s n="n"/></r></p></e>
 <e slr="0"><p><l>pompelmoes<s n="n"/><s n="mf"/><r>pomelo<s n="n"/></r></p></e>
 <e slr="0"><p><l>pompoen<s n="n"/><s n="m"/><r>pumpkin<s n="n"/></r></p></e>
@@ -6842,7 +6844,7 @@
 <e slr="0"><p><l>pot<s n="n"/><s n="m"/><r>jar<s n="n"/></r></p></e>
 <e slr="1"><p><l>pot<s n="n"/><s n="m"/><r>dyke<s n="n"/></r></p></e>
 <e slr="0"><p><l>potlood<s n="n"/><s n="nt"/><r>pencil<s n="n"/></r></p></e>
-<e slr="0"><p><l>po%C3%ABzie<s n="n"/><s n="mf"/><r>poetry<s n="n"/></r></p></e>
+<e slr="0"><p><l>poëzie<s n="n"/><s n="mf"/><r>poetry<s n="n"/></r></p></e>
 <e slr="0"><p><l>praal<s n="n"/><s n="mf"/><r>pomp<s n="n"/></r></p></e>
 <e slr="0"><p><l>praalwagen<s n="n"/><s n="m"/><r>parade<s n="n"/></r></p></e>
 <e slr="0"><p><l>pracht<s n="n"/><s n="mf"/><r>splendor<s n="n"/></r></p></e>
@@ -6889,13 +6891,13 @@
 <e slr="0"><p><l>prinses<s n="n"/><s n="f"/><r>princess<s n="n"/></r></p></e>
 <e slr="0"><p><l>printplaat<s n="n"/><s n="mf"/><r>printed<s n="n"/></r></p></e>
 <e slr="0"><p><l>prise<s n="n"/><s n="f"/><r>plug<s n="n"/></r></p></e>
-<e slr="0"><p><l>priv%C3%A9brief<s n="n"/><s n="m"/><r>private<s n="n"/></r></p></e>
+<e slr="0"><p><l>privébrief<s n="n"/><s n="m"/><r>private<s n="n"/></r></p></e>
 <e slr="0"><p><l>probleem<s n="n"/><s n="nt"/><r>problem<s n="n"/></r></p></e>
 <e slr="0"><p><l>probleemkind<s n="n"/><s n="nt"/><r>problem<b/>child<s n="n"/></r></p></e>
 <e slr="1"><p><l>probleemkind<s n="n"/><s n="nt"/><r>weak<b/>spot<s n="n"/></r></p></e>
 <e slr="0"><p><l>problematiek<s n="n"/><s n="f"/><r>problem<s n="n"/></r></p></e>
 <e slr="0"><p><l>procedure<s n="n"/><s n="f"/><r>procedure<s n="n"/></r></p></e>
-<e slr="0"><p><l>proced%C3%A9<s n="n"/><s n="nt"/><r>process<s n="n"/></r></p></e>
+<e slr="0"><p><l>procedé<s n="n"/><s n="nt"/><r>process<s n="n"/></r></p></e>
 <e slr="0"><p><l>proces<s n="n"/><s n="nt"/><r>process<s n="n"/></r></p></e>
 <e slr="1"><p><l>proces<s n="n"/><s n="nt"/><r>trial<s n="n"/></r></p></e>
 <e slr="0"><p><l>processie<s n="n"/><s n="f"/><r>procession<s n="n"/></r></p></e>
@@ -6924,7 +6926,7 @@
 <e slr="0"><p><l>programmablad<s n="n"/><s n="nt"/><r>program<b/>guide<s n="n"/></r></p></e>
 <e slr="0"><p><l>project<s n="n"/><s n="nt"/><r>project<s n="n"/></r></p></e>
 <e slr="0"><p><l>proletariaat<s n="n"/><s n="nt"/><r>working<b/>class<s n="n"/></r></p></e>
-<e slr="0"><p><l>proletari%C3%ABr<s n="n"/><s n="mf"/><r>proletarian<s n="n"/></r></p></e>
+<e slr="0"><p><l>proletariër<s n="n"/><s n="mf"/><r>proletarian<s n="n"/></r></p></e>
 <e slr="0"><p><l>prolongatie<s n="n"/><s n="f"/><r>prolongation<s n="n"/></r></p></e>
 <e slr="0"><p><l>proloog<s n="n"/><s n="m"/><r>prologue<s n="n"/></r></p></e>
 <e slr="0"><p><l>promethium<s n="n"/><s n="nt"/><r>promethium<s n="n"/></r></p></e>
@@ -6942,7 +6944,7 @@
 <e slr="0"><p><l>protectoraat<s n="n"/><s n="nt"/><r>protectorate<s n="n"/></r></p></e>
 <e slr="0"><p><l>protestant<s n="n"/><s n="m"/><r>Protestant<s n="n"/></r></p></e>
 <e slr="0"><p><l>protestantisme<s n="n"/><s n="nt"/><r>Protestantism<s n="n"/></r></p></e>
-<e slr="0"><p><l>prote%C3%AFne<s n="n"/><s n="mf"/><r>protein<s n="n"/></r></p></e>
+<e slr="0"><p><l>proteïne<s n="n"/><s n="mf"/><r>protein<s n="n"/></r></p></e>
 <e slr="0"><p><l>prothese<s n="n"/><s n="f"/><r>artificial<s n="n"/></r></p></e>
 <e slr="1"><p><l>prothese<s n="n"/><s n="f"/><r>prosthesis<s n="n"/></r></p></e>
 <e slr="0"><p><l>provincie<s n="n"/><s n="f"/><r>province<s n="n"/></r></p></e>
@@ -7214,7 +7216,7 @@
 <e slr="0"><p><l>revolver<s n="n"/><s n="m"/><r>revolver<s n="n"/></r></p></e>
 <e slr="0"><p><l>revue<s n="n"/><s n="mf"/><r>revue<s n="n"/></r></p></e>
 <e slr="1"><p><l>revue<s n="n"/><s n="mf"/><r>review<s n="n"/></r></p></e>
-<e slr="0"><p><l>re%C3%AFncarnatie<s n="n"/><s n="f"/><r>reincarnation<s n="n"/></r></p></e>
+<e slr="0"><p><l>reïncarnatie<s n="n"/><s n="f"/><r>reincarnation<s n="n"/></r></p></e>
 <e slr="0"><p><l>rhodium<s n="n"/><s n="nt"/><r>rhodium<s n="n"/></r></p></e>
 <e slr="0"><p><l>rib<s n="n"/><s n="m"/><r>rib<s n="n"/></r></p></e>
 <e slr="1"><p><l>rib<s n="n"/><s n="m"/><r>truss<s n="n"/></r></p></e>
@@ -7261,7 +7263,7 @@
 <e slr="0"><p><l>ringslang<s n="n"/><s n="mf"/><r>grass<b/>snake<s n="n"/></r></p></e>
 <e slr="0"><p><l>ringvinger<s n="n"/><s n="m"/><r>ring<b/>finger<s n="n"/></r></p></e>
 <e slr="0"><p><l>rioolbuis<s n="n"/><s n="mf"/><r>sewer<s n="n"/></r></p></e>
-<e slr="0"><p><l>Ripuari%C3%ABr<s n="n"/><s n="m"/><r>Ripuarian<s n="n"/></r></p></e>
+<e slr="0"><p><l>Ripuariër<s n="n"/><s n="m"/><r>Ripuarian<s n="n"/></r></p></e>
 <e slr="0"><p><l>risico<s n="n"/><s n="nt"/><r>risk<s n="n"/></r></p></e>
 <e slr="0"><p><l>rit<s n="n"/><s n="m"/><r>ride<s n="n"/></r></p></e>
 <e slr="0"><p><l>ritme<s n="n"/><s n="nt"/><r>rhythm<s n="n"/></r></p></e>
@@ -7410,8 +7412,8 @@
 <e slr="0"><p><l>ruthenium<s n="n"/><s n="nt"/><r>ruthenium<s n="n"/></r></p></e>
 <e slr="0"><p><l>ruwheid<s n="n"/><s n="f"/><r>roughness<s n="n"/></r></p></e>
 <e slr="0"><p><l>ruzie<s n="n"/><s n="f"/><r>quarrel<s n="n"/></r></p></e>
-<e slr="0"><p><l>ru%C3%AFne<s n="n"/><s n="f"/><r>ruin<s n="n"/></r></p></e>
-<e slr="0"><p><l>r%C3%B6ntgenapparaat<s n="n"/><s n="nt"/><r>X-ray<s n="n"/></r></p></e>
+<e slr="0"><p><l>ruïne<s n="n"/><s n="f"/><r>ruin<s n="n"/></r></p></e>
+<e slr="0"><p><l>röntgenapparaat<s n="n"/><s n="nt"/><r>X-ray<s n="n"/></r></p></e>
 <e slr="0"><p><l>sabel<s n="n"/><s n="m"/><r>sabre<s n="n"/></r></p></e>
 <e slr="1"><p><l>sabel<s n="n"/><s n="m"/><r>sable<s n="n"/></r></p></e>
 <e slr="0"><p><l>Sabijn<s n="n"/><s n="m"/><r>Sabine<s n="n"/></r></p></e>
@@ -7699,7 +7701,7 @@
 <e slr="0"><p><l>september<s n="n"/><s n="m"/><r>September<s n="n"/></r></p></e>
 <e slr="0"><p><l>sereniteit<s n="n"/><s n="f"/><r>serenity<s n="n"/></r></p></e>
 <e slr="0"><p><l>serf<s n="n"/><s n="m"/><r>serf<s n="n"/></r></p></e>
-<e slr="0"><p><l>seri%C3%ABle<b/>poort<s n="n"/><s n="mf"/><r>serial<b/>port<s n="n"/></r></p></e>
+<e slr="0"><p><l>seriële<b/>poort<s n="n"/><s n="mf"/><r>serial<b/>port<s n="n"/></r></p></e>
 <e slr="0"><p><l>service<s n="n"/><s n="mf"/><r>service<s n="n"/></r></p></e>
 <e slr="0"><p><l>sexverslaafde<s n="n"/><s n="m"/><r>sex<b/>slave<s n="n"/></r></p></e>
 <e slr="0"><p><l>sfeer<s n="n"/><s n="m"/><r>sphere<s n="n"/></r></p></e>
@@ -7740,7 +7742,7 @@
 <e slr="0"><p><l>ski<s n="n"/><s n="m"/><r>ski<s n="n"/></r></p></e>
 <e slr="0"><p><l>skin<s n="n"/><s n="mf"/><r>Skin<s n="n"/></r></p></e>
 <e slr="1"><p><l>skin<s n="n"/><s n="mf"/><r>skinhead<s n="n"/></r></p></e>
-<e slr="0"><p><l>ski%C3%ABr<s n="n"/><s n="m"/><r>skier<s n="n"/></r></p></e>
+<e slr="0"><p><l>skiër<s n="n"/><s n="m"/><r>skier<s n="n"/></r></p></e>
 <e slr="0"><p><l>sla<s n="n"/><s n="mf"/><r>lettuce<s n="n"/></r></p></e>
 <e slr="0"><p><l>slaaf<s n="n"/><s n="m"/><r>slave<s n="n"/></r></p></e>
 <e slr="0"><p><l>Slaaf<s n="n"/><s n="m"/><r>Slav<s n="n"/></r></p></e>
@@ -7879,7 +7881,7 @@
 <e slr="0"><p><l>socialist<s n="n"/><s n="mf"/><r>socialist<s n="n"/></r></p></e>
 <e slr="0"><p><l>sociologie<s n="n"/><s n="f"/><r>sociology<s n="n"/></r></p></e>
 <e slr="0"><p><l>socioloog<s n="n"/><s n="mf"/><r>sociologist<s n="n"/></r></p></e>
-<e slr="0"><p><l>soci%C3%ABteit<s n="n"/><s n="f"/><r>society<s n="n"/></r></p></e>
+<e slr="0"><p><l>sociëteit<s n="n"/><s n="f"/><r>society<s n="n"/></r></p></e>
 <e slr="0"><p><l>soep<s n="n"/><s n="mf"/><r>soup<s n="n"/></r></p></e>
 <e slr="0"><p><l>soepelheid<s n="n"/><s n="f"/><r>flexibility<s n="n"/></r></p></e>
 <e slr="0"><p><l>soeplepel<s n="n"/><s n="m"/><r>soupspoon<s n="n"/></r></p></e>
@@ -7891,7 +7893,7 @@
 <e slr="0"><p><l>soldaat<s n="n"/><s n="m"/><r>soldier<s n="n"/></r></p></e>
 <e slr="0"><p><l>soldij<s n="n"/><s n="f"/><r>remuneration<s n="n"/></r></p></e>
 <e slr="0"><p><l>som<s n="n"/><s n="f"/><r>sum<s n="n"/></r></p></e>
-<e slr="0"><p><l>Somali%C3%ABr<s n="n"/><s n="m"/><r>Somali<s n="n"/></r></p></e>
+<e slr="0"><p><l>Somaliër<s n="n"/><s n="m"/><r>Somali<s n="n"/></r></p></e>
 <e slr="0"><p><l>somatotrofine<s n="n"/><s n="nt"/><r>somatotropin<s n="n"/></r></p></e>
 <e slr="0"><p><l>sonde<s n="n"/><s n="mf"/><r>probe<s n="n"/></r></p></e>
 <e slr="1"><p><l>sonde<s n="n"/><s n="mf"/><r>feeding<s n="n"/></r></p></e>
@@ -8195,6 +8197,7 @@
 <e slr="0"><p><l>stoel<s n="n"/><s n="m"/><r>chair<s n="n"/></r></p></e>
 <e slr="1"><p><l>stoel<s n="n"/><s n="m"/><r>seat<s n="n"/></r></p></e>
 <e slr="2"><p><l>stoel<s n="n"/><s n="m"/><r>base<s n="n"/></r></p></e>
+
 <e slr="3"><p><l>stoel<s n="n"/><s n="m"/><r>residence<s n="n"/></r></p></e>
 <e slr="4"><p><l>stoel<s n="n"/><s n="m"/><r>stool<s n="n"/></r></p></e>
 <e slr="5"><p><l>stoel<s n="n"/><s n="m"/><r>confessional<b/>chair<s n="n"/></r></p></e>
@@ -8241,7 +8244,7 @@
 <e slr="0"><p><l>stortbad<s n="n"/><s n="nt"/><r>shower<s n="n"/></r></p></e>
 <e slr="1"><p><l>stortbad<s n="n"/><s n="nt"/><r>flush<s n="n"/></r></p></e>
 <e slr="2"><p><l>stortbad<s n="n"/><s n="nt"/><r>disillusion<s n="n"/></r></p></e>
-<e slr="0"><p><l>sto%C3%AFcisme<s n="n"/><s n="nt"/><r>stoicism<s n="n"/></r></p></e>
+<e slr="0"><p><l>stoïcisme<s n="n"/><s n="nt"/><r>stoicism<s n="n"/></r></p></e>
 <e slr="0"><p><l>straal<s n="n"/><s n="f"/><r>ray<s n="n"/></r></p></e>
 <e slr="1"><p><l>straal<s n="n"/><s n="f"/><r>liquid<s n="n"/></r></p></e>
 <e slr="2"><p><l>straal<s n="n"/><s n="f"/><r>radius<s n="n"/></r></p></e>
@@ -8405,7 +8408,7 @@
 <e slr="0"><p><l>talgklier<s n="n"/><s n="mf"/><r>sebaceous<b/>gland<s n="n"/></r></p></e>
 <e slr="0"><p><l>talgklierfollikel<s n="n"/><s n="m"/><r>sebaceous<b/>follicle<s n="n"/></r></p></e>
 <e slr="0"><p><l>taling<s n="n"/><s n="m"/><r>teal<s n="n"/></r></p></e>
-<e slr="0"><p><l>tamboer-ma%C3%AEtre<s n="n"/><s n="m"/><r>drum<b/>major<s n="n"/></r></p></e>
+<e slr="0"><p><l>tamboer-maître<s n="n"/><s n="m"/><r>drum<b/>major<s n="n"/></r></p></e>
 <e slr="0"><p><l>tamboerijn<s n="n"/><s n="m"/><r>tambourine<s n="n"/></r></p></e>
 <e slr="0"><p><l>tand<s n="n"/><s n="m"/><r>tooth<s n="n"/></r></p></e>
 <e slr="1"><p><l>tand<s n="n"/><s n="m"/><r>cartwheel<s n="n"/></r></p></e>
@@ -8812,7 +8815,7 @@
 <e slr="2"><p><l>tros<s n="n"/><s n="m"/><r>hawser<s n="n"/></r></p></e>
 <e slr="0"><p><l>trots<s n="n"/><s n="mf"/><r>pride<s n="n"/></r></p></e>
 <e slr="0"><p><l>trottoir<s n="n"/><s n="nt"/><r>sidewalk<s n="n"/></r></p></e>
-<e slr="0"><p><l>trouv%C3%A8re<s n="n"/><s n="m"/><r>trouvère<s n="n"/></r></p></e>
+<e slr="0"><p><l>trouvère<s n="n"/><s n="m"/><r>trouvère<s n="n"/></r></p></e>
 <e slr="0"><p><l>trouwerij<s n="n"/><s n="f"/><r>wedding<s n="n"/></r></p></e>
 <e slr="0"><p><l>trouwjurk<s n="n"/><s n="mf"/><r>wedding<b/>dress<s n="n"/></r></p></e>
 <e slr="0"><p><l>trouwring<s n="n"/><s n="m"/><r>wedding<b/>ring<s n="n"/></r></p></e>
@@ -9035,7 +9038,7 @@
 <e slr="0"><p><l>variabiliteit<s n="n"/><s n="f"/><r>variability<s n="n"/></r></p></e>
 <e slr="1"><p><l>variabiliteit<s n="n"/><s n="f"/><r>ability<s n="n"/></r></p></e>
 <e slr="2"><p><l>variabiliteit<s n="n"/><s n="f"/><r>tendency<s n="n"/></r></p></e>
-<e slr="0"><p><l>vari%C3%ABteit<s n="n"/><s n="f"/><r>manifold<s n="n"/></r></p></e>
+<e slr="0"><p><l>variëteit<s n="n"/><s n="f"/><r>manifold<s n="n"/></r></p></e>
 <e slr="0"><p><l>varken<s n="n"/><s n="nt"/><r>pig<s n="n"/></r></p></e>
 <e slr="1"><p><l>varken<s n="n"/><s n="nt"/><r>swine<s n="n"/></r></p></e>
 <e slr="2"><p><l>varken<s n="n"/><s n="nt"/><r>knor<s n="n"/></r></p></e>
@@ -9070,7 +9073,7 @@
 <e slr="0"><p><l>veerboot<s n="n"/><s n="mf"/><r>ferryboat<s n="n"/></r></p></e>
 <e slr="0"><p><l>veerman<s n="n"/><s n="m"/><r>ferryman<s n="n"/></r></p></e>
 <e slr="0"><p><l>veerpont<s n="n"/><s n="mf"/><r>ferryboat<s n="n"/></r></p></e>
-<e slr="0"><p><l>vegetari%C3%ABr<s n="n"/><s n="mf"/><r>vegetarian<s n="n"/></r></p></e>
+<e slr="0"><p><l>vegetariër<s n="n"/><s n="mf"/><r>vegetarian<s n="n"/></r></p></e>
 <e slr="0"><p><l>veiligheid<s n="n"/><s n="f"/><r>safety<s n="n"/></r></p></e>
 <e slr="0"><p><l>veiling<s n="n"/><s n="f"/><r>auction<s n="n"/></r></p></e>
 <e slr="0"><p><l>veilinghuis<s n="n"/><s n="nt"/><r>auction<s n="n"/></r></p></e>
@@ -10107,6 +10110,7 @@
 <e slr="1"><p><l>wonderkind<s n="n"/><s n="nt"/><r>miraculously<s n="n"/></r></p></e>
 <e slr="0"><p><l>wonderknaap<s n="n"/><s n="m"/><r>boy<b/>genius<s n="n"/></r></p></e>
 <e slr="1"><p><l>wonderknaap<s n="n"/><s n="m"/><r>wonderboy<s n="n"/></r></p></e>
+
 <e slr="0"><p><l>wonderteken<s n="n"/><s n="nt"/><r>miraculous<s n="n"/></r></p></e>
 <e slr="0"><p><l>woning<s n="n"/><s n="f"/><r>dwelling<s n="n"/></r></p></e>
 <e slr="0"><p><l>woonkamer<s n="n"/><s n="mf"/><r>living<b/>room<s n="n"/></r></p></e>
@@ -10398,7 +10402,7 @@
 <e slr="0"><p><l>zout<s n="n"/><s n="nt"/><r>salt<s n="n"/></r></p></e>
 <e slr="0"><p><l>zoutmolen<s n="n"/><s n="m"/><r>salt<s n="n"/></r></p></e>
 <e slr="0"><p><l>zoutwatervis<s n="n"/><s n="m"/><r>fish<s n="n"/></r></p></e>
-<e slr="0"><p><l>zo%C3%B6loog<s n="n"/><s n="m"/><r>zoologist<s n="n"/></r></p></e>
+<e slr="0"><p><l>zoöloog<s n="n"/><s n="m"/><r>zoologist<s n="n"/></r></p></e>
 <e slr="0"><p><l>zucht<s n="n"/><s n="m"/><r>sigh<s n="n"/></r></p></e>
 <e slr="1"><p><l>zucht<s n="n"/><s n="m"/><r>longing<s n="n"/></r></p></e>
 <e slr="2"><p><l>zucht<s n="n"/><s n="m"/><r>pathological<s n="n"/></r></p></e>
@@ -10488,4 +10492,4 @@
 <e slr="0"><p><l>zwezerik<s n="n"/><s n="m"/><r>thymus<s n="n"/></r></p></e>
 <e slr="0"><p><l>zwijn<s n="n"/><s n="nt"/><r>pig<s n="n"/></r></p></e>
 <e slr="1"><p><l>zwijn<s n="n"/><s n="nt"/><r>swine<s n="n"/></r></p></e>
-<e slr="0"><p><l>%C4%B3zervreter<s n="n"/><s n="mf"/><r>stout-hearted<s n="n"/></r></p></e>
+<e slr="0"><p><l>ijzervreter<s n="n"/><s n="mf"/><r>stout-hearted<s n="n"/></r></p></e>
