@@ -1,8 +1,4 @@
 all:
-	xmllint --xinclude apertium-en-nl.en.dix.xml > apertium-en-nl.en.dix
-	xmllint --xinclude apertium-en-nl.nl.dix.xml > apertium-en-nl.nl.dix
-	xmllint --xinclude apertium-en-nl.en-nl.dix.xml > apertium-en-nl.en-nl.dix
-
 	lt-comp lr apertium-en-nl.en.dix en-nl.automorf.bin
 	lt-comp lr apertium-en-nl.nl.dix nl-en.automorf.bin
 
@@ -31,8 +27,8 @@ all:
 	apertium-gen-modes modes.xml
 
 clean:
-	rm -f *.bin apertium-en-nl.en.dix apertium-en-nl.nl.dix apertium-en-nl.en-nl.dix
+	rm -f *.bin 
 
 test:
-	echo "I have two beers" | lt-proc en-nl.automorf.bin | apertium-tagger -g en-nl.prob | apertium-pretransfer | apertium-transfer apertium-en-nl.en-nl.t1x en-nl.t1x.bin en-nl.autobil.bin | apertium-interchunk apertium-en-nl.en-nl.t2x en-nl.t2x.bin | apertium-postchunk apertium-en-nl.en-nl.t3x en-nl.t3x.bin | lt-proc -g en-nl.autognl.bin
+	echo "I have two beers" | lt-proc en-nl.automorf.bin | apertium-tagger -g en-nl.prob | apertium-pretransfer | apertium-transfer apertium-en-nl.en-nl.t1x en-nl.t1x.bin en-nl.autobil.bin | apertium-interchunk apertium-en-nl.en-nl.t2x en-nl.t2x.bin | apertium-postchunk apertium-en-nl.en-nl.t3x en-nl.t3x.bin | lt-proc -g en-nl.autogen.bin
 

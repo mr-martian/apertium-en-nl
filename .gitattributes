@@ -32,4 +32,5 @@ Scripts/nounswiki/noun.txt -text
 /apertium-en-nl.nl.dix -text
 /apertium-en-nl.post-en.dix -text
 /apertium-en-nl.post-nl.dix -text
+/en-nl.prob -text svneol=unset#unset
 /modes.xml -text
