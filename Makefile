@@ -28,8 +28,8 @@ all:
 	apertium-validate-postchunk apertium-en-nl.nl-en.t3x
 	apertium-preprocess-transfer apertium-en-nl.nl-en.t3x nl-en.t3x.bin
 
-	#clean up temp files
-	rm apertium-en-nl.en.dix apertium-en-nl.nl.dix apertium-en-nl.en-nl.dix
+	apertium-gen-modes modes.xml
+
 clean:
 	rm -f *.bin apertium-en-nl.en.dix apertium-en-nl.nl.dix apertium-en-nl.en-nl.dix
 

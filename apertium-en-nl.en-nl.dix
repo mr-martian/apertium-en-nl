@@ -1,8 +1,109 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
   <alphabet/>
   <!-- Symbol definitions -->
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="apertium-en-nl.symbols.xml"/>
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+    <sdef n="m"       c="Masculine"/>
+    <sdef n="f"       c="Feminine"/>
+    <sdef n="nt"      c="Neuter"/>
+    <sdef n="mf"      c="Masculine-Feminine"/>
+    <sdef n="sg"      c="Singular"/>
+    <sdef n="pl"      c="Plural"/>
+    <sdef n="prn"     c="Pronoun"/>
+    <sdef n="pr"      c="Preposition"/>
+
+    <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub"  c="Subordinating conjunction"/>
+    <sdef n="cnjadv"  c="Adverbial conjunction"/>
+
+    <sdef n="vbser"   c="The verb 'to be'"/>
+    <sdef n="vblex"   c="Lexical verb"/>	
+    <sdef n="vaux"    c="Auxilliary verb"/>	
+    <sdef n="vbhaver" c="The verb 'to have'"/>
+    <sdef n="vbmod"   c="Modal verb"/>
+    <sdef n="pri"     c="Present indicative"/>
+    <sdef n="past"    c="Past tense"/>
+    <sdef n="pres"    c="Present tense"/>
+    <sdef n="inf"     c="Infinitive"/>
+
+    <sdef n="aff"     c="Affirmative"/>
+    <sdef n="int"     c="Interrogative"/>
+    <sdef n="neg"     c="Negative"/>
+
+    <sdef n="p1"      c="First person"/>
+    <sdef n="p2"      c="Second person"/>
+    <sdef n="p3"      c="Third person"/>
+    <sdef n="impers"  c="Impersonal"/>
+ 
+    <sdef n="tn"      c="Tonico"/>
+    <sdef n="adj"     c="Adjective"/>
+    <sdef n="sint"    c="Synthetic adjective"/>
+    <sdef n="comp"    c="Comparative"/>
+    <sdef n="sup"     c="Superlative"/>
+    <sdef n="attr"    c="Attributive"/>
+    <sdef n="pred"    c="Predicative"/>
+
+    <sdef n="detnt"   c="Neuter determiner"/>
+    <sdef n="predet"  c="Pre determiner"/>
+    <sdef n="atn"/>
+    <sdef n="qnt"/>
+    <sdef n="ord"     c="Ordinal"/>
+    <sdef n="obj"     c="Object"/>
+    <sdef n="subj"    c="Subject"/>
+    <sdef n="pro"     c="Proclitic"/>
+    <sdef n="acr"     c="Acronym"/>
+    <sdef n="loc"     c="Locative"/>
+    <sdef n="ant"     c="Antroponym"/>
+    <sdef n="al"      c="Other / Otros"/>
+    <sdef n="np"      c="Proper noun"/>
+    <sdef n="adv"     c="Adverb"/>
+    <sdef n="preadv"  c="Pre-adverb"/>
+    <sdef n="rel"     c="Relative"/>
+    <sdef n="nn"      c="Noun noun"/>
+    <sdef n="an"      c="Adjective noun"/>
+    <sdef n="aa"      c="Adjective adjective"/>
+    <sdef n="ind"     c="Indefinite"/>    
+    <sdef n="itg"     c="Interrogative"/>
+    <sdef n="det"     c="Determiner"/>
+    <sdef n="dem"     c="Demonstrative"/>
+    <sdef n="def"     c="Definite"/>
+    <sdef n="ger"     c="Gerund"/>
+    <sdef n="pp"      c="Participle"/>
+    <sdef n="ifi"     c="Pretério perfecto o indefinido"/>
+    <sdef n="pii"     c="Pretério imperfecto de indicativo"/>
+    <sdef n="fti"     c="Future indicative"/>
+    <sdef n="cni"     c="Conditional"/>
+    <sdef n="prs"     c="Present subjunctive"/>
+    <sdef n="pis"     c="Pretério imperfecto de subjunctivo"/>
+    <sdef n="imp"     c="Imperfect"/>
+    <sdef n="pos"     c="Possessive"/>
+    <sdef n="gen"     c="Genitive"/>
+    <sdef n="nom"     c="Nominative"/>
+    <sdef n="sp"      c="Singular / Plural"/>
+    <sdef n="ref"     c="Reflexive"/>
+    <sdef n="num"     c="Numeral / Number"/>
+    <sdef n="ij"      c="Interjection"/>
+
+    <sdef n="sent"    c="End of sentence"/>
+    <sdef n="cm"      c="Comma"/>
+    <sdef n="lpar"    c="Left parenthesis"/>
+    <sdef n="rpar"    c="Right parenthesis"/>
+    <sdef n="lquest"  c="Left question-mark"/>
+    <sdef n="web"/>
+    <sdef n="subs"/>
+    <sdef n="pprs"/>    
+    <sdef n="guio"    c="Hyphen"/> 
+    <sdef n="enc"/>
+    <sdef n="vbdo"/>
+    <sdef n="unc"/>
+    <sdef n="sep"/>
+    <sdef n="pron"/>
+    <sdef n="apos"    c="Apostrophe"/>
+    <sdef n="percent" c="Percent"/>
+    <sdef n="iobj"    c="Indirect object"/>
+    <sdef n="dat"     c="Dative"/>
+  </sdefs>
 
   <section id="main" type="standard">
 
@@ -590,7 +691,7 @@
     <e><p><l>2,6-dimethylphenol<s n="n"/></l><r>2,6-dimethylfenol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>2,6-xylenol<s n="n"/></l><r>2,6-xylenol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>2-(2-ethoxyethoxy)ethanol<s n="n"/></l><r>2-(2-ethoxyethoxy)ethanol<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>2-(4-methylbenzoyl)benzoic acid<s n="n"/></l><r>2-(4-methylbenzoyl)benzoëzuur<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>2-(4-methylbenzoyl)benzoic acid<s n="n"/></l><r>2-(4-methylbenzoyl)benzoÃ«zuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>2-(isopropoxy)propane<s n="n"/></l><r>2-(isopropoxy)propaan<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>2-(methylethoxy)propane<s n="n"/></l><r>2-(methylethoxy)propaan<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>2-acetylpyridine<s n="n"/></l><r>2-acetylpyridine<s n="n"/></r></p></e> <!-- not added -->
@@ -623,8 +724,8 @@
     <e><p><l>2-propanol<s n="n"/></l><r>2-propanol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>2-propanone<s n="n"/></l><r>2-propanon<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>2hydroxy ethaneamine<s n="n"/></l><r>2-hydroxyethaanamine<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>3,4,5-trihydroxybenzoic acid<s n="n"/></l><r>3,4,5-trihydroxybenzoëzuur<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>3,4-dihydroxybenzoic acid<s n="n"/></l><r>3,4-dihydroxybenzoëzuur<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>3,4,5-trihydroxybenzoic acid<s n="n"/></l><r>3,4,5-trihydroxybenzoÃ«zuur<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>3,4-dihydroxybenzoic acid<s n="n"/></l><r>3,4-dihydroxybenzoÃ«zuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>3,4-dimethylphenol<s n="n"/></l><r>3,4-dimethylfenol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>3,4-xylenol<s n="n"/></l><r>3,4-xylenol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>3,5-dimethylphenol<s n="n"/></l><r>3,5-dimethylfenol<s n="n"/></r></p></e> <!-- not added -->
@@ -642,7 +743,7 @@
     <e><p><l>4-hydroxy benzoic acid<s n="n"/></l><r>4-hydroxybenzoezuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>4-hydroxy-butanoic acid<s n="n"/></l><r>4-hydroxybutaanzuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>4-methylnitrobenzene<s n="n"/></l><r>4-methylnitrobenzeen<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>4-nitrobenzoic acid<s n="n"/></l><r>4-nitrobenzoëzuur<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>4-nitrobenzoic acid<s n="n"/></l><r>4-nitrobenzoÃ«zuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>4-nitrobenzyl alcohol<s n="n"/></l><r>4-nitrobenzylalcohol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>4-nitrotoluene<s n="n"/></l><r>4-nitrotolueen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>4-vinylcyclohexene<s n="n"/></l><r>4-vinylcyclohexeen<s n="n"/></r></p></e> <!-- not added -->
@@ -718,7 +819,7 @@
     <e><p><l>acetic acid<s n="n"/></l><r>azijnzuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acetic acid anhydride<s n="n"/></l><r>azijnzuuranhydride<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acetic aldehyde<s n="n"/></l><r>acetaldehyde<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>acetoin<s n="n"/></l><r>acetoïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>acetoin<s n="n"/></l><r>acetoÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acetone<s n="n"/></l><r>aceton<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acetonitrile<s n="n"/></l><r>acetonitrile<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acetophenone<s n="n"/></l><r>acetofenon<s n="n"/></r></p></e> <!-- not added -->
@@ -732,11 +833,11 @@
     <e><p><l>acid<s n="n"/></l><r>zuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acid-base titration<s n="n"/></l><r>zuur-base-titratie<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acidity<s n="n"/></l><r>aciditeit<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>acroleine<s n="n"/></l><r>acroleïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>acroleine<s n="n"/></l><r>acroleÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acrylamide<s n="n"/></l><r>acrylamide<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acrylic acid<s n="n"/></l><r>acrylzuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>acrylonitrile<s n="n"/></l><r>acrylonitril<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>acétyl<s n="n"/></l><r>acetyl<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>acÃ©tyl<s n="n"/></l><r>acetyl<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>adamantane<s n="n"/></l><r>adamantaan<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>additives<s n="n"/></l><r>additieven<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>adenosine<s n="n"/></l><r>adenosine<s n="n"/></r></p></e> <!-- not added -->
@@ -755,7 +856,7 @@
     <e><p><l>aliphatic compound<s n="n"/></l><r>alifatische verbinding<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>alizarin<s n="n"/></l><r>alizarine<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>alkaline earth metals<s n="n"/></l><r>aardalkalimetalen<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>alkaloids<s n="n"/></l><r>alkaloïden<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>alkaloids<s n="n"/></l><r>alkaloÃ¯den<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>alkanes<s n="n"/></l><r>alkanen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>alkanoic acids<s n="n"/></l><r>alkaanzuren<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>alkene metathesis<s n="n"/></l><r>alkeen metathese<s n="n"/></r></p></e> <!-- not added -->
@@ -775,7 +876,7 @@
     <e><p><l>aluminum<s n="n"/></l><r>aluminium<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>amino group<s n="n"/></l><r>aminogroep<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>aminobenzene<s n="n"/></l><r>aminobenzeen<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>aminobenzoic acid<s n="n"/></l><r>aminobenzoëzuur<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>aminobenzoic acid<s n="n"/></l><r>aminobenzoÃ«zuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>aminoethane<s n="n"/></l><r>aminoethaan<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>ammonia<s n="n"/></l><r>ammoniak<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>ammonio<s n="n"/></l><r>ammoniogroep<s n="n"/></r></p></e> <!-- not added -->
@@ -812,7 +913,7 @@
     <e><p><l>astatine<s n="n"/></l><r>astaat<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>atomic mass unit<s n="n"/></l><r>atomaire massa-eenheid<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>atomic number<s n="n"/></l><r>atoomnummer<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>azelaic acid<s n="n"/></l><r>azelaïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>azelaic acid<s n="n"/></l><r>azelaÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>azeotrope<s n="n"/></l><r>azeotroop<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>aziridine<s n="n"/></l><r>aziridine<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>azoformamide<s n="n"/></l><r>azoformamide<s n="n"/></r></p></e> <!-- not added -->
@@ -828,9 +929,9 @@
     <e><p><l>benzenenitrile<s n="n"/></l><r>benzeennitril<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>benzidine<s n="n"/></l><r>benzidine<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>benzil<s n="n"/></l><r>benzil<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>benzoic acid<s n="n"/></l><r>benzoëzuur<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>benzoic acid methyl ester<s n="n"/></l><r>benzoëzuurmethylester<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>benzoin<s n="n"/></l><r>benzoïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>benzoic acid<s n="n"/></l><r>benzoÃ«zuur<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>benzoic acid methyl ester<s n="n"/></l><r>benzoÃ«zuurmethylester<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>benzoin<s n="n"/></l><r>benzoÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>benzonitrile<s n="n"/></l><r>benzonitril<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>benzoperylene<s n="n"/></l><r>benzoperyleen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>benzophenone<s n="n"/></l><r>benzofenon<s n="n"/></r></p></e> <!-- not added -->
@@ -881,7 +982,7 @@
     <e><p><l>butyric acid<s n="n"/></l><r>boterzuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>by-product<s n="n"/></l><r>bijprodukt<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>cadaverine<s n="n"/></l><r>cadaverine<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>caffeine<s n="n"/></l><r>cafeïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>caffeine<s n="n"/></l><r>cafeÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>calcium<s n="n"/></l><r>calcium<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>calcium ascorbate<s n="n"/></l><r>kaliumascorbaat<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>calcium benzoate<s n="n"/></l><r>calciumbenzoaat<s n="n"/></r></p></e> <!-- not added -->
@@ -943,10 +1044,10 @@
     <e><p><l>civetone<s n="n"/></l><r>civeton<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>clenbuterol<s n="n"/></l><r>clenbuterol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>coagulate<s n="n"/></l><r>stollen<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>cocaine<s n="n"/></l><r>cocaïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>cocaine<s n="n"/></l><r>cocaÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>cochineal<s n="n"/></l><r>cochenille<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>coenzyme<s n="n"/></l><r>co-enzym<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>colloid<s n="n"/></l><r>colloïd<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>colloid<s n="n"/></l><r>colloÃ¯d<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>common salt<s n="n"/></l><r>keukenzout<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>compound<s n="n"/></l><r>verbinding<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>conduction polymers<s n="n"/></l><r>geleidende polymeren<s n="n"/></r></p></e> <!-- not added -->
@@ -987,14 +1088,14 @@
     <e><p><l>cyclopropane<s n="n"/></l><r>cyclopropaan<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>cyclotetramethylenetetranitramin<s n="n"/></l><r>cyclotetramethyleentetranitramine<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>cyprodinil<s n="n"/></l><r>cyprodinil<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>cysteine<s n="n"/></l><r>cysteïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>cysteine<s n="n"/></l><r>cysteÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>cytosine<s n="n"/></l><r>cytosine<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>decane<s n="n"/></l><r>decaan<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>decanedioic acid<s n="n"/></l><r>decaandizuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>decanoic acid<s n="n"/></l><r>decaanzuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>decomposition<s n="n"/></l><r>ontleding<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>demineralized water<s n="n"/></l><r>gedemineraliseerd water<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>deoxyribonucleic acid<s n="n"/></l><r>desoxyribonucleïnezuur<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>deoxyribonucleic acid<s n="n"/></l><r>desoxyribonucleÃ¯nezuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>deoxyribose<s n="n"/></l><r>desoxyribose<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>derivative<s n="n"/></l><r>derivaat<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>detergent<s n="n"/></l><r>detergent<s n="n"/></r></p></e> <!-- not added -->
@@ -1019,9 +1120,9 @@
     <e><p><l>diethyl butylmalonate<s n="n"/></l><r>diethylbutylmalonaat<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>diethyl ether<s n="n"/></l><r>diethylether<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>diethyl malonate<s n="n"/></l><r>diethylmalonaat<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>diethyl oxalate<s n="n"/></l><r>diëthyloxalaat<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>diethyl oxalate<s n="n"/></l><r>diÃ«thyloxalaat<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>diethylanaline<s n="n"/></l><r>diethylanaline<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>diethylcarbonate<s n="n"/></l><r>diëthylcarbonaat<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>diethylcarbonate<s n="n"/></l><r>diÃ«thylcarbonaat<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>diethyleen glycol mono ethyl ether<s n="n"/></l><r>diethyleenglycolmonoethylether<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>diethylphenylamine<s n="n"/></l><r>diethylfenylamine<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>diisobutylaluminium hydride<s n="n"/></l><r>diisobutylaluminiumhydride<s n="n"/></r></p></e> <!-- not added -->
@@ -1039,7 +1140,7 @@
     <e><p><l>dimethylether<s n="n"/></l><r>dimethylether<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>dimethylphenol<s n="n"/></l><r>dimethylfenol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>dioctyl phtalate<s n="n"/></l><r>dioctylftalaat<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>diolein<s n="n"/></l><r>dioleïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>diolein<s n="n"/></l><r>dioleÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>diols<s n="n"/></l><r>diolen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>dioxane<s n="n"/></l><r>dioxaan<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>diphenic acid<s n="n"/></l><r>difeenzuur<s n="n"/></r></p></e> <!-- not added -->
@@ -1122,7 +1223,7 @@
     <e><p><l>flash point<s n="n"/></l><r>vlampunt<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>fluoranthene<s n="n"/></l><r>fluorantheen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>fluorene<s n="n"/></l><r>fluoreen<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>fluoresceine<s n="n"/></l><r>fluoresceïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>fluoresceine<s n="n"/></l><r>fluoresceÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>fluorescence<s n="n"/></l><r>fluorescentie<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>folic acid<s n="n"/></l><r>foliumzuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>formaldehyde<s n="n"/></l><r>formaldehyde<s n="n"/></r></p></e> <!-- not added -->
@@ -1174,7 +1275,7 @@
     <e><p><l>heptanedioic acid<s n="n"/></l><r>heptaandizuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>heptanoic acid<s n="n"/></l><r>heptaanzuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>heptanone<s n="n"/></l><r>heptanon<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>heroin<s n="n"/></l><r>heroïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>heroin<s n="n"/></l><r>heroÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>heterolysis<s n="n"/></l><r>heterolyse<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>hexacene<s n="n"/></l><r>hexaceen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>hexachlorobenzene<s n="n"/></l><r>hexachloorbenzeen<s n="n"/></r></p></e> <!-- not added -->
@@ -1288,7 +1389,7 @@
     <e><p><l>m-xylene<s n="n"/></l><r>m-xyleen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>magnesium<s n="n"/></l><r>magnesium<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>main product<s n="n"/></l><r>hoofdprodukt<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>maleic acid<s n="n"/></l><r>maleïnezuur<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>maleic acid<s n="n"/></l><r>maleÃ¯nezuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>maleic anhydride<s n="n"/></l><r>maleinezuuranhydride<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>malonic acid<s n="n"/></l><r>malonzuur<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>malt suger<s n="n"/></l><r>moutsuiker<s n="n"/></r></p></e> <!-- not added -->
@@ -1378,7 +1479,7 @@
     <e><p><l>novoviol<s n="n"/></l><r>novoviol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>nuclear energy<s n="n"/></l><r>kernenergie<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>nuclear magnetic resonance<s n="n"/></l><r>nucleomagnetische resonantie<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>nucleic acids<s n="n"/></l><r>nucleïnezuren<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>nucleic acids<s n="n"/></l><r>nucleÃ¯nezuren<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>nucleotides<s n="n"/></l><r>nucleotiden<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>o-xylene<s n="n"/></l><r>o-xyleen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>octadecane<s n="n"/></l><r>octadecaan<s n="n"/></r></p></e> <!-- not added -->
@@ -1447,7 +1548,7 @@
     <e><p><l>phenanthrene<s n="n"/></l><r>fenanthreen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>phenetole<s n="n"/></l><r>fenetool<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>phenol<s n="n"/></l><r>fenol<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>phenolphtalein<s n="n"/></l><r>fenolftaleïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>phenolphtalein<s n="n"/></l><r>fenolftaleÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>phenols<s n="n"/></l><r>fenolen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>phenyl cyanide<s n="n"/></l><r>fenylcyanide<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>phenyl hydrazine<s n="n"/></l><r>fenylhydrazine<s n="n"/></r></p></e> <!-- not added -->
@@ -1535,7 +1636,7 @@
     <e><p><l>propylene glycol monomethyl ether<s n="n"/></l><r>propyleenglycolmonomethylether<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>propylene oxide<s n="n"/></l><r>propyleenoxide<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>propylenimine<s n="n"/></l><r>propylenimine<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>protein<s n="n"/></l><r>proteïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>protein<s n="n"/></l><r>proteÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>proton<s n="n"/></l><r>proton<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>psoralen<s n="n"/></l><r>psoraleen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>purity<s n="n"/></l><r>zuiverheid<s n="n"/></r></p></e> <!-- not added -->
@@ -1681,7 +1782,7 @@
     <e><p><l>trinitrobenzene<s n="n"/></l><r>trinitrobenzeen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>trinitroglycerin<s n="n"/></l><r>trinitroglycerine<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>trinitrotoluene<s n="n"/></l><r>trinitrotolueen<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>triolein<s n="n"/></l><r>trioleïne<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>triolein<s n="n"/></l><r>trioleÃ¯ne<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>trioxymethylene<s n="n"/></l><r>trioxymethyleen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>tripalmitin<s n="n"/></l><r>tripalmitine<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>triphenyl phosphine<s n="n"/></l><r>trifenylfosfine<s n="n"/></r></p></e> <!-- not added -->
@@ -1775,7 +1876,7 @@
     <e><p><l>agreement<s n="n"/></l><r>overeenkomst<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>agricultural commodities/products<s n="n"/></l><r>landbouwproducten<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>agricultural inputs<s n="n"/></l><r>landbouwkundige productie-factoren<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>agricultural investigations<s n="n"/></l><r>landbouwenquêtes<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>agricultural investigations<s n="n"/></l><r>landbouwenquÃªtes<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>agricultural lime<s n="n"/></l><r>landbouwkalk<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>agricultural machinery<s n="n"/></l><r>landbouwmachines<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>agricultural research<s n="n"/></l><r>landboukundig onderzoek<s n="n"/></r></p></e> <!-- not added -->
@@ -1785,7 +1886,7 @@
     <e><p><l>agronomist<s n="n"/></l><r>landbouwkundige<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>agronomy<s n="n"/></l><r>landbouwkunde<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>air content<s n="n"/></l><r>luchtgehalte<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>alignment<s n="n"/></l><r>tracé<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>alignment<s n="n"/></l><r>tracÃ©<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>alkali soil<s n="n"/></l><r>alkalische bodem<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>alkalinisation<s n="n"/></l><r>alkalinisatie<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>alkalinity<s n="n"/></l><r>alkaliniteit<s n="n"/></r></p></e> <!-- not added -->
@@ -1806,9 +1907,9 @@
     <e><p><l>angle dozer<s n="n"/></l><r>trekkerschuif<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>anion exchange<s n="n"/></l><r>anionenuitwisseling<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>cation exchange<s n="n"/></l><r>kationenuitwisseling<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>annual crops<s n="n"/></l><r>éénjarige gewassen<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>annual crops<s n="n"/></l><r>Ã©Ã©njarige gewassen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>annual variation<s n="n"/></l><r>jaarlijkse variatie<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>annual weeds<s n="n"/></l><r>éénjarige onkruiden<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>annual weeds<s n="n"/></l><r>Ã©Ã©njarige onkruiden<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>anomaly<s n="n"/></l><r>afwijking<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>antagonism<s n="n"/></l><r>tegenwerking<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>anti-malaria measures<s n="n"/></l><r>malariabestrijding<s n="n"/></r></p></e> <!-- not added -->
@@ -1884,7 +1985,7 @@
     <e><p><l>binomial distribution<s n="n"/></l><r>binomiaalverdeling<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>bitumen<s n="n"/></l><r>bitumen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>black cotton soil<s n="n"/></l><r>vertisol<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>blacksmith’s shop<s n="n"/></l><r>smederij<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>blacksmithâs shop<s n="n"/></l><r>smederij<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>leaf blade<s n="n"/></l><r>bladschijf<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>blasting<s n="n"/></l><r>opblazen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>blasting cap<s n="n"/></l><r>ontsteking<s n="n"/></r></p></e> <!-- not added -->
@@ -1980,15 +2081,15 @@
     <e><p><l>coating<s n="n"/></l><r>deklaag<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>coca<s n="n"/></l><r>coca<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>coconut<s n="n"/></l><r>kokosnoot<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>coefficient of contraction<s n="n"/></l><r>samentrekkingscoëfficiënt<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>coefficient of friction<s n="n"/></l><r>wrijvingscoëfficiënt<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>coefficient of permeability<s n="n"/></l><r>doorlaatbaarheidcoëfficiënt<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>coefficient of contraction<s n="n"/></l><r>samentrekkingscoÃ«fficiÃ«nt<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>coefficient of friction<s n="n"/></l><r>wrijvingscoÃ«fficiÃ«nt<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>coefficient of permeability<s n="n"/></l><r>doorlaatbaarheidcoÃ«fficiÃ«nt<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>coffer dam<s n="n"/></l><r>kofferdam<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>cohesion (of material)<s n="n"/></l><r>samenhang<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>coir<s n="n"/></l><r>kokosnootvezel<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>collapsible weir<s n="n"/></l><r>inschuifbare overlaat<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>collector drain<s n="n"/></l><r>verzameldrain<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>colloidal complex<s n="n"/></l><r>colloïdaal complex<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>colloidal complex<s n="n"/></l><r>colloÃ¯daal complex<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>colluvial soil<s n="n"/></l><r>colluviale bodem<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>colluvium<s n="n"/></l><r>colluvium<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>combine harvester<s n="n"/></l><r>maaidorser<s n="n"/></r></p></e> <!-- not added -->
@@ -2031,7 +2132,7 @@
     <e><p><l>canal losses<s n="n"/></l><r>waterverlies uit irrigatie systeem<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>cool storage<s n="n"/></l><r>koelhuis<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>core drill<s n="n"/></l><r>kernboor<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>corn on the cob<s n="n"/></l><r>maïskolf<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>corn on the cob<s n="n"/></l><r>maÃ¯skolf<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>correlation analysis<s n="n"/></l><r>correlatieanalyse<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>corrosion<s n="n"/></l><r>corrosie, aantasting, verwering<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>corrugation irrigation<s n="n"/></l><r>irrigatie langs rillen<s n="n"/></r></p></e> <!-- not added -->
@@ -2136,7 +2237,7 @@
     <e><p><l>dredger<s n="n"/></l><r>baggermachine<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>dredging<s n="n"/></l><r>baggeren<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>drilled fertilizers<s n="n"/></l><r>kunstmest in rijen toegediend<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>driller’s log<s n="n"/></l><r>logboek van een boormeester<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>drillerâs log<s n="n"/></l><r>logboek van een boormeester<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>drilling<s n="n"/></l><r>in lijnen zaaien<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>drilling rig<s n="n"/></l><r>boorinstallatie<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>drip/trickle irrigation<s n="n"/></l><r>druppelirrigatie<s n="n"/></r></p></e> <!-- not added -->
@@ -2204,7 +2305,7 @@
     <e><p><l>extension<s n="n"/></l><r>voorlichting<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>extension<s n="n"/></l><r>uitbreiding<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>new area<s n="n"/></l><r>uitbreiding<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>factorial design<s n="n"/></l><r>factoriële veld-proefopzet<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>factorial design<s n="n"/></l><r>factoriÃ«le veld-proefopzet<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>fallow land<s n="n"/></l><r>braakliggend land<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>family living allowance<s n="n"/></l><r>huishoudtoelage<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>farm gate price<s n="n"/></l><r>prijs af boerderij<s n="n"/></r></p></e> <!-- not added -->
@@ -2328,9 +2429,9 @@
     <e><p><l>head loss<s n="n"/></l><r>drukverlies<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>head supervisor<s n="n"/></l><r>hoofdopzichter<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>headlands<s n="n"/></l><r>kopakkers<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>heavy equipment<s n="n"/></l><r>zware machinerieën<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>heavy equipment<s n="n"/></l><r>zware machinerieÃ«n<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>heavy-duty revetment<s n="n"/></l><r>sterke bekleding<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>heifers<s n="n"/></l><r>éénjarig rundvee<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>heifers<s n="n"/></l><r>Ã©Ã©njarig rundvee<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>herbage<s n="n"/></l><r>weide ( - vegetatie)<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>herd<s n="n"/></l><r>kudde<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>hides<s n="n"/></l><r>huiden<s n="n"/></r></p></e> <!-- not added -->
@@ -2374,12 +2475,12 @@
     <e><p><l>infiltration rate<s n="n"/></l><r>infiltratiesnelheid<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>infiltrometer<s n="n"/></l><r>infiltrometer<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>inflatable weir<s n="n"/></l><r>opblaasbare dam<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>initial outlay<s n="n"/></l><r>initiële stichtingskosten<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>initial outlay<s n="n"/></l><r>initiÃ«le stichtingskosten<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>inspection pit<s n="n"/></l><r>inspectieput<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>intake<s n="n"/></l><r>inlaat<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>intake structure<s n="n"/></l><r>inlaatwerk<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>intangible benefits<s n="n"/></l><r>imponderabilia<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>integrated pest control/management<s n="n"/></l><r>geïntegreerde insectenbestrijding<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>integrated pest control/management<s n="n"/></l><r>geÃ¯ntegreerde insectenbestrijding<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>inter-planting<s n="n"/></l><r>herplanten, inboeten<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>interception drain<s n="n"/></l><r>opvangdrain<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>intercropping<s n="n"/></l><r>tussenteelt<s n="n"/></r></p></e> <!-- not added -->
@@ -2448,7 +2549,7 @@
     <e><p><l>lower plastic limit<s n="n"/></l><r>onderste plasticiteitgrens<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>lubricating station<s n="n"/></l><r>smeerstation<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>maintenance<s n="n"/></l><r>onderhoud<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>maize<s n="n"/></l><r>maïs<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>maize<s n="n"/></l><r>maÃ¯s<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>male couplings<s n="n"/></l><r>mannetjes<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>man-day<s n="n"/></l><r>mensdag<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>management<s n="n"/></l><r>beheer<s n="n"/></r></p></e> <!-- not added -->
@@ -2494,7 +2595,7 @@
     <e><p><l>mowing bar<s n="n"/></l><r>maaibalk<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>mulch<s n="n"/></l><r>strooisellaag<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>multi-purpose tools<s n="n"/></l><r>universeel-werktuigen<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>multiple cropping<s n="n"/></l><r>verbouw van 2 of méér gewassen per jaar<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>multiple cropping<s n="n"/></l><r>verbouw van 2 of mÃ©Ã©r gewassen per jaar<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>muriate of potash<s n="n"/></l><r>kalizout<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>mutual help<s n="n"/></l><r>onderlinge hulp<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>natural runoff<s n="n"/></l><r> natuurlijke afstroming<s n="n"/></r></p></e> <!-- not added -->
@@ -2530,7 +2631,7 @@
     <e><p><l>over-pumping<s n="n"/></l><r>overmatig pompen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>oxen span<s n="n"/></l><r>ossenspan<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>packing<s n="n"/></l><r> verpakking<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>painter’s putty<s n="n"/></l><r>stopverf<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>painterâs putty<s n="n"/></l><r>stopverf<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>pan evaporation<s n="n"/></l><r>verdamping openwateroppervlak<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>panicle initiation<s n="n"/></l><r>aaraanleg<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>papaw<s n="n"/></l><r>papaja<s n="n"/></r></p></e> <!-- not added -->
@@ -2547,7 +2648,7 @@
     <e><p><l>pellet (fertilizer, feeds)<s n="n"/></l><r>korrel<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>peneplain<s n="n"/></l><r>schiervlakte<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>perched water table<s n="n"/></l><r>schijn-grondwaterspiegel<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>perennial crops<s n="n"/></l><r>méérjarige gewassen<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>perennial crops<s n="n"/></l><r>mÃ©Ã©rjarige gewassen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>perennial weeds<s n="n"/></l><r>meerjarige onkruiden<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>Persian wheel<s n="n"/></l><r>Perzisch waterwiel<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>pest control/management<s n="n"/></l><r>insectenbestrijding<s n="n"/></r></p></e> <!-- not added -->
@@ -2585,13 +2686,13 @@
     <e><p><l>potassium sulphate<s n="n"/></l><r>zwavelzure kali<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>potato<s n="n"/></l><r>aardappel<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>potato harvester<s n="n"/></l><r>aardappelrooier<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>potential evapotranspiration<s n="n"/></l><r>potentiële evapotranspiratie<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>potential yield<s n="n"/></l><r>potentiële opbrengst<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>potential evapotranspiration<s n="n"/></l><r>potentiÃ«le evapotranspiratie<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>potential yield<s n="n"/></l><r>potentiÃ«le opbrengst<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>poultry batteries<s n="n"/></l><r>pluimveebatterijen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>powder milk<s n="n"/></l><r>poedermelk<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>power take-off<s n="n"/></l><r>aftakas<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>pre-emergence<s n="n"/></l><r>vóór ontkieming<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>pre-irrigation<s n="n"/></l><r>vóórirrigatie<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>pre-emergence<s n="n"/></l><r>vÃ³Ã³r ontkieming<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>pre-irrigation<s n="n"/></l><r>vÃ³Ã³rirrigatie<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>precast concrete<s n="n"/></l><r>geprefabriceerd beton<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>primary canal<s n="n"/></l><r>primair kanaal<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>priority rating list<s n="n"/></l><r>prioriteitenlijst<s n="n"/></r></p></e> <!-- not added -->
@@ -2616,7 +2717,7 @@
     <e><p><l>rain<s n="n"/></l><r>regen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>rain gauge<s n="n"/></l><r>regenmeter<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>rain gun<s n="n"/></l><r>beregeningskanon<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>rain shadow’ (of a tree)<s n="n"/></l><r>boomspiegel<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>rain shadowâ (of a tree)<s n="n"/></l><r>boomspiegel<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>rain storm<s n="n"/></l><r>regenstorm<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>rainfall<s n="n"/></l><r>regenval<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>rainfall intensity-area curve<s n="n"/></l><r>regenval intensiteit-gebieds curve<s n="n"/></r></p></e> <!-- not added -->
@@ -2655,7 +2756,7 @@
     <e><p><l>relative humidity<s n="n"/></l><r>relatieve vochtigheid<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>relay-intercropping<s n="n"/></l><r>estafetteteelt<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>reliable results<s n="n"/></l><r>betrouwbare resultaten<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>relief<s n="n"/></l><r>reliëf<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>relief<s n="n"/></l><r>reliÃ«f<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>relief maps<s n="n"/></l><r>hoogtekaarten<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>remodelling canals<s n="n"/></l><r>onderhoud<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>remodelling canals<s n="n"/></l><r>opschonen<s n="n"/></r></p></e> <!-- not added -->
@@ -2702,7 +2803,7 @@
     <e><p><l>rotavator<s n="n"/></l><r>grondfrees<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>rotary hoe<s n="n"/></l><r>grondfrees<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>roughage for cattle<s n="n"/></l><r>ruwvoer<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>roughness coefficient<s n="n"/></l><r>ruwheidcoëfficiënt<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>roughness coefficient<s n="n"/></l><r>ruwheidcoÃ«fficiÃ«nt<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>flood routing<s n="n"/></l><r>vormverandering van hoogwatergolf<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>row crops<s n="n"/></l><r>rijgewassen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>row cropping<s n="n"/></l><r>mengteelt in rijen<s n="n"/></r></p></e> <!-- not added -->
@@ -2795,7 +2896,7 @@
     <e><p><l>soil preparation<s n="n"/></l><r>grondbewerking<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>soil survey<s n="n"/></l><r>bodemkartering<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>soil texture<s n="n"/></l><r>bodemtextuur<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>sole cropping<s n="n"/></l><r>één gewas per jaar<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>sole cropping<s n="n"/></l><r>Ã©Ã©n gewas per jaar<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>solvent<s n="n"/></l><r>oplosmiddel<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>sorghum<s n="n"/></l><r>kafferkoorn<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>sorting (quality)<s n="n"/></l><r>sorteren<s n="n"/></r></p></e> <!-- not added -->
@@ -2818,7 +2919,7 @@
     <e><p><l>spring tide<s n="n"/></l><r>springtij<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>sprinkler irrigation<s n="n"/></l><r>beregening<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>sprinkling<s n="n"/></l><r><s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>sprouted beans<s n="n"/></l><r>taugé<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>sprouted beans<s n="n"/></l><r>taugÃ©<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>square<s n="n"/></l><r>bloemknop<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>stability<s n="n"/></l><r>stabiliteit<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>stable/indoor feeding<s n="n"/></l><r>stalvoedering<s n="n"/></r></p></e> <!-- not added -->
@@ -2896,7 +2997,7 @@
     <e><p><l>thermograph<s n="n"/></l><r>thermograaf<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>thinner<s n="n"/></l><r>verdunner<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>thinning out<s n="n"/></l><r>dunnen van een gewas<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>threshed dry maize<s n="n"/></l><r>gepelde, droge maïs<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>threshed dry maize<s n="n"/></l><r>gepelde, droge maÃ¯s<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>threshing<s n="n"/></l><r>dorsen<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>threshing floor<s n="n"/></l><r>dorsvloer<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>thunderstorm<s n="n"/></l><r>onweersbui<s n="n"/></r></p></e> <!-- not added -->
@@ -2935,14 +3036,14 @@
     <e><p><l>trunk<s n="n"/></l><r>stam<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>tuber<s n="n"/></l><r>knol<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>turnout<s n="n"/></l><r>conversie<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>two-wheel tractors<s n="n"/></l><r>één-assige tractoren<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>two-wheel tractors<s n="n"/></l><r>Ã©Ã©n-assige tractoren<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>unbiasedness<s n="n"/></l><r> onbevooroordeeldheid<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>uncontrolled mosaic<s n="n"/></l><r>ongecontroleerde (lucht-)fotomozaïk<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>uncontrolled mosaic<s n="n"/></l><r>ongecontroleerde (lucht-)fotomozaÃ¯k<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>unhusked rice<s n="n"/></l><r>ongepelde rijst<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>unhulled rice<s n="n"/></l><r>ongepelde rijst<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>unit price<s n="n"/></l><r>eenheidsprijs<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>urea<s n="n"/></l><r>ureum<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>vacuum pump<s n="n"/></l><r>vacuümpomp<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>vacuum pump<s n="n"/></l><r>vacuÃ¼mpomp<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>Value-Added Tax<s n="n"/></l><r>Belasting Toegevoegde Waarde<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>valve<s n="n"/></l><r>afsluiter<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>regulator<s n="n"/></l><r>afsluiter<s n="n"/></r></p></e> <!-- not added -->
@@ -2953,7 +3054,7 @@
     <e><p><l>void<s n="n"/></l><r>holte<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>volatility<s n="n"/></l><r>vluchtigheid<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>waste water<s n="n"/></l><r>ongebruikt irrigatiewater, afvalwater<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>water application efficiency<s n="n"/></l><r>efficiëntie van watertoediening<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>water application efficiency<s n="n"/></l><r>efficiÃ«ntie van watertoediening<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>water bailiff<s n="n"/></l><r>irrigatieopzichter<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>water charges<s n="n"/></l><r>waterkosten<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>water control<s n="n"/></l><r>waterbeheer<s n="n"/></r></p></e> <!-- not added -->
@@ -2979,7 +3080,7 @@
     <e><p><l>weed growth regulator<s n="n"/></l><r>hormonaal - bestrijdingsmiddel<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>weeds (bad - )<s n="n"/></l><r>onkruiden<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>weighted average<s n="n"/></l><r>gewogen gemiddelde<s n="n"/></r></p></e> <!-- not added -->
-    <e><p><l>weighting coefficient/factor<s n="n"/></l><r>wegingscoëfficient/-faktor<s n="n"/></r></p></e> <!-- not added -->
+    <e><p><l>weighting coefficient/factor<s n="n"/></l><r>wegingscoÃ«fficient/-faktor<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>weir<s n="n"/></l><r>overlaat<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>drop structure<s n="n"/></l><r>overstort<s n="n"/></r></p></e> <!-- not added -->
     <e><p><l>overflow<s n="n"/></l><r>overlaat<s n="n"/></r></p></e> <!-- not added -->
@@ -3013,9 +3114,9 @@
 
     <!-- Landstreeken -->
     <e><p><l>Andorra<s n="np"/></l><r>Andorra<s n="np"/></r></p></e>
-    <e><p><l>Australia<s n="np"/></l><r>Australië<s n="np"/></r></p></e>
-    <e><p><l>Belgium<s n="np"/></l><r>België<s n="np"/></r></p></e>
-    <e><p><l>Brazil<s n="np"/></l><r>Brazilië<s n="np"/></r></p></e>
+    <e><p><l>Australia<s n="np"/></l><r>AustraliÃ«<s n="np"/></r></p></e>
+    <e><p><l>Belgium<s n="np"/></l><r>BelgiÃ«<s n="np"/></r></p></e>
+    <e><p><l>Brazil<s n="np"/></l><r>BraziliÃ«<s n="np"/></r></p></e>
     <e><p><l>Bulgaria<s n="np"/></l><r>Bulgarije<s n="np"/></r></p></e>
     <e><p><l>China<s n="np"/></l><r>China<s n="np"/></r></p></e>
     <e><p><l>Denmark<s n="np"/></l><r>Denemarken<s n="np"/></r></p></e>
@@ -3025,37 +3126,37 @@
     <e><p><l>Finland<s n="np"/></l><r>Finland<s n="np"/></r></p></e>
     <e><p><l>France<s n="np"/></l><r>Frankrijk<s n="np"/></r></p></e>
     <e><p><l>Greece<s n="np"/></l><r>Griekenland<s n="np"/></r></p></e>
-    <e><p><l>Great Britain<s n="np"/></l><r>Groot-Brittannië<s n="np"/></r></p></e>
+    <e><p><l>Great Britain<s n="np"/></l><r>Groot-BrittanniÃ«<s n="np"/></r></p></e>
     <e><p><l>India<s n="np"/></l><r>India<s n="np"/></r></p></e>
     <e><p><l>Iceland<s n="np"/></l><r>Ijsland<s n="np"/></r></p></e>
     <e><p><l>Ireland<s n="np"/></l><r>Ierland<s n="np"/></r></p></e>
-    <e><p><l>Israel<s n="np"/></l><r>Israël<s n="np"/></r></p></e>
-    <e><p><l>Italy<s n="np"/></l><r>Italië<s n="np"/></r></p></e>
+    <e><p><l>Israel<s n="np"/></l><r>IsraÃ«l<s n="np"/></r></p></e>
+    <e><p><l>Italy<s n="np"/></l><r>ItaliÃ«<s n="np"/></r></p></e>
     <e><p><l>Japan<s n="np"/></l><r>Japan<s n="np"/></r></p></e>
     <e><p><l>Kosovo<s n="np"/></l><r>Kosovo<s n="np"/></r></p></e>
     <e><p><l>Canada<s n="np"/></l><r>Canada<s n="np"/></r></p></e>
-    <e><p><l>Croatia<s n="np"/></l><r>Kroatië<s n="np"/></r></p></e>
+    <e><p><l>Croatia<s n="np"/></l><r>KroatiÃ«<s n="np"/></r></p></e>
     <e><p><l>Latvia<s n="np"/></l><r>Letland<s n="np"/></r></p></e>
     <e><p><l>Liechtenstein<s n="np"/></l><r>Liechtenstein<s n="np"/></r></p></e>
     <e><p><l>Lithuania<s n="np"/></l><r>Litouwen<s n="np"/></r></p></e>
     <e><p><l>Luxembourg<s n="np"/></l><r>Luxemburg<s n="np"/></r></p></e>
-    <e><p><l>Macedonia<s n="np"/></l><r>Macedonië<s n="np"/></r></p></e>
+    <e><p><l>Macedonia<s n="np"/></l><r>MacedoniÃ«<s n="np"/></r></p></e>
     <e><p><l>Mexico<s n="np"/></l><r>Mexico<s n="np"/></r></p></e>
-    <e><p><l>Moldova<s n="np"/></l><r>Moldaviën<s n="np"/></r></p></e>
+    <e><p><l>Moldova<s n="np"/></l><r>MoldaviÃ«n<s n="np"/></r></p></e>
     <e><p><l>Monaco<s n="np"/></l><r>Monaco<s n="np"/></r></p></e>
     <e><p><l>New Zealand<s n="np"/></l><r>Nieuw-Zeeland<s n="np"/></r></p></e>
     <e><p><l>Norway<s n="np"/></l><r>Noorwegen<s n="np"/></r></p></e>
     <e><p><l>Austria<s n="np"/></l><r>Oostenrijk<s n="np"/></r></p></e>
     <e><p><l>Poland<s n="np"/></l><r>Polen<s n="np"/></r></p></e>
-    <e><p><l>Romania<s n="np"/></l><r>Roemenië<s n="np"/></r></p></e>
+    <e><p><l>Romania<s n="np"/></l><r>RoemeniÃ«<s n="np"/></r></p></e>
     <e><p><l>Russia<s n="np"/></l><r>Rusland<s n="np"/></r></p></e>
     <e><p><l>Scotland<s n="np"/></l><r>Schotland<s n="np"/></r></p></e>
     <e><p><l>Sweden<s n="np"/></l><r>Zweden<s n="np"/></r></p></e>
-    <e><p><l>Slovenia<s n="np"/></l><r>Slovenië<s n="np"/></r></p></e>
+    <e><p><l>Slovenia<s n="np"/></l><r>SloveniÃ«<s n="np"/></r></p></e>
     <e><p><l>Spain<s n="np"/></l><r>Spanje<s n="np"/></r></p></e>
     <e><p><l>South Africa<s n="np"/></l><r>Zuid-Afrika<s n="np"/></r></p></e>
     <e><p><l>South Korea<s n="np"/></l><r>Zuid-Korea<s n="np"/></r></p></e>
-    <e><p><l>Tunesia<s n="np"/></l><r>Tunesië<s n="np"/></r></p></e>
+    <e><p><l>Tunesia<s n="np"/></l><r>TunesiÃ«<s n="np"/></r></p></e>
     <e><p><l>Hungary<s n="np"/></l><r>Hongarije<s n="np"/></r></p></e>
     <e><p><l>Wales<s n="np"/></l><r>Wales<s n="np"/></r></p></e>
     <e><p><l>Cyprus<s n="np"/></l><r>Cyprus<s n="np"/></r></p></e>
@@ -3066,7 +3167,7 @@
     <e><p><l>Netherlands<s n="np"/></l><r>Nederland<s n="np"/></r></p></e>
     <e><p><l>Switzerland<s n="np"/></l><r>Zwitserland<s n="np"/></r></p></e>
     <e><p><l>Turkey<s n="np"/></l><r>Turkije<s n="np"/></r></p></e>
-    <e><p><l>Ukraine<s n="np"/></l><r>Oekraïne<s n="np"/></r></p></e>
+    <e><p><l>Ukraine<s n="np"/></l><r>OekraÃ¯ne<s n="np"/></r></p></e>
     <e><p><l>United States<s n="np"/></l><r>Verenigde Staten<s n="np"/></r></p></e>
 
     <!-- Bijvoegelijk naamwoorden -->
@@ -3389,7 +3490,7 @@
     
     <!-- Hoofdtelwoorden -->
     <e><p><l>zero<s n="num"/><s n="sp"/></l><r>nul<s n="num"/><s n="sp"/></r></p></e>
-    <e><p><l>one<s n="num"/><s n="sp"/></l><r>één<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>one<s n="num"/><s n="sp"/></l><r>Ã©Ã©n<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>two<s n="num"/><s n="sp"/></l><r>twee<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>three<s n="num"/><s n="sp"/></l><r>drie<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>four<s n="num"/><s n="sp"/></l><r>vier<s n="num"/><s n="sp"/></r></p></e>
@@ -3530,7 +3631,7 @@
     <e><re>[0-9]+([.,][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
     <e><re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
 
-    <e><re>[Â¿Â¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
+    <e><re>[ÃÂ¿ÃÂ¡]</re><p><l><s n="lquest"/></l><r><s n="lquest"/></r></p></e>
     <e><re>[\(\[]</re><p><l><s n="lpar"/></l><r><s n="lpar"/></r></p></e>
     <e><re>[\)\]]</re><p><l><s n="rpar"/></l><r><s n="rpar"/></r></p></e>
     <e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>

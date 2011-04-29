@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-15"?>
 <dictionary>
-  <alphabet>·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
+  <alphabet>Â·ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃ Ã¡Ã¢Ã€Ã§ÃšÃ©ÃªÃ«Ã¬Ã­Ã®Ã¯Ã±Ã²Ã³ÃŽÃ¶Ã¹ÃºÃ»ÃŒABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
   <!-- Symbol definitions -->
   <sdefs>
     <sdef n="n" c="Noun"/>
@@ -70,12 +70,12 @@
     <sdef n="def" c="Definite"/>
     <sdef n="ger" c="Gerund"/>
     <sdef n="pp" c="Participle"/>
-    <sdef n="ifi" c="Pretério perfecto o indefinido"/>
-    <sdef n="pii" c="Pretério imperfecto de indicativo"/>
+    <sdef n="ifi" c="PretÃ©rio perfecto o indefinido"/>
+    <sdef n="pii" c="PretÃ©rio imperfecto de indicativo"/>
     <sdef n="fti" c="Future indicative"/>
     <sdef n="cni" c="Conditional"/>
     <sdef n="prs" c="Present subjunctive"/>
-    <sdef n="pis" c="Pretério imperfecto de subjunctivo"/>
+    <sdef n="pis" c="PretÃ©rio imperfecto de subjunctivo"/>
     <sdef n="imp" c="Imperfect"/>
     <sdef n="pos" c="Possessive"/>
     <sdef n="gen" c="Genitive"/>
@@ -178,7 +178,7 @@
 
     
                               <e>
-        <re>[¿¡]</re>
+        <re>[Â¿Â¡]</re>
         <p>
           <l/>
          <r><s n="lquest"/></r>
@@ -12818,7 +12818,7 @@
                         <e lm="silty"><i>silt</i><par n="happ/y__adj"/></e>
 
 
-                        <e lm="naïve"><i>naïve</i><par n="nice/__adj"/></e>
+                        <e lm="naÃ¯ve"><i>naÃ¯ve</i><par n="nice/__adj"/></e>
 
 
                         <e lm="germinal"><i>germinal</i><par n="expensive__adj"/></e>
@@ -46809,7 +46809,7 @@
 
                         <e lm="cyclothymia"><i>cyclothymia</i><par n="house__n"/></e>
 
-                        <e lm="angström"><i>angström</i><par n="house__n"/></e>
+                        <e lm="angstrÃ¶m"><i>angstrÃ¶m</i><par n="house__n"/></e>
 
                         <e lm="permeability"><i>permeabilit</i><par n="bab/y__n"/></e>
 
@@ -47599,7 +47599,7 @@
 
                         <e lm="adenoma"><i>adenoma</i><par n="house__n"/></e>
 
-                        <e lm="pâté"><i>pâté</i><par n="house__n"/></e>
+                        <e lm="pÃ¢tÃ©"><i>pÃ¢tÃ©</i><par n="house__n"/></e>
 
                         <e lm="paleogeography"><i>paleogeograph</i><par n="bab/y__n"/></e>
 
@@ -49427,7 +49427,7 @@
 
                         <e lm="microtractor"><i>microtractor</i><par n="house__n"/></e>
 
-                        <e lm="attaché"><i>attaché</i><par n="house__n"/></e>
+                        <e lm="attachÃ©"><i>attachÃ©</i><par n="house__n"/></e>
 
                         <e lm="dyskeratosis"><i>dyskeratos</i><par n="analys/is__n"/></e>
 
@@ -49587,7 +49587,7 @@
 
                         <e lm="stationarity"><i>stationarit</i><par n="bab/y__n"/></e>
 
-                        <e lm="rivière"><i>rivière</i><par n="house__n"/></e>
+                        <e lm="riviÃšre"><i>riviÃšre</i><par n="house__n"/></e>
 
                         <e lm="normocyte"><i>normocyte</i><par n="house__n"/></e>
 
@@ -50617,7 +50617,7 @@
 
                         <e lm="fulguration"><i>fulguration</i><par n="house__n"/></e>
 
-                        <e lm="façade"><i>façade</i><par n="house__n"/></e>
+                        <e lm="faÃ§ade"><i>faÃ§ade</i><par n="house__n"/></e>
 
                         <e lm="lymphadenopathy"><i>lymphadenopath</i><par n="bab/y__n"/></e>
 
@@ -51069,7 +51069,7 @@
 
                         <e lm="ablation"><i>ablation</i><par n="house__n"/></e>
 
-                        <e lm="moiré"><i>moiré</i><par n="house__n"/></e>
+                        <e lm="moirÃ©"><i>moirÃ©</i><par n="house__n"/></e>
 
                         <e lm="spermatophyte"><i>spermatophyte</i><par n="house__n"/></e>
 
@@ -51175,7 +51175,7 @@
 
                         <e lm="gastrula"><i>gastrula</i><par n="house__n"/></e>
 
-                        <e lm="première"><i>première</i><par n="house__n"/></e>
+                        <e lm="premiÃšre"><i>premiÃšre</i><par n="house__n"/></e>
 
                         <e lm="boron"><i>boron</i><par n="house__n"/></e>
 
@@ -51797,7 +51797,7 @@
 
                         <e lm="nasality"><i>nasalit</i><par n="bab/y__n"/></e>
 
-                        <e lm="purée"><i>purée</i><par n="house__n"/></e>
+                        <e lm="purÃ©e"><i>purÃ©e</i><par n="house__n"/></e>
 
                         <e lm="cicatrization"><i>cicatrization</i><par n="house__n"/></e>
 
@@ -54305,7 +54305,7 @@
 
                         <e lm="acidimeter"><i>acidimeter</i><par n="house__n"/></e>
 
-                        <e lm="fiancé"><i>fiancé</i><par n="house__n"/></e>
+                        <e lm="fiancÃ©"><i>fiancÃ©</i><par n="house__n"/></e>
 
                         <e lm="coxa"><i>coxa</i><par n="house__n"/></e>
 
@@ -55515,7 +55515,7 @@
 
                         <e lm="cementoblast"><i>cementoblast</i><par n="house__n"/></e>
 
-                        <e lm="consommé"><i>consommé</i><par n="house__n"/></e>
+                        <e lm="consommÃ©"><i>consommÃ©</i><par n="house__n"/></e>
 
                         <e lm="pubis"><i>pub</i><par n="analys/is__n"/></e>
 
@@ -55687,7 +55687,7 @@
 
                         <e lm="hemopoiesis"><i>hemopoies</i><par n="analys/is__n"/></e>
 
-                        <e lm="bergère"><i>bergère</i><par n="house__n"/></e>
+                        <e lm="bergÃšre"><i>bergÃšre</i><par n="house__n"/></e>
 
                         <e lm="labiovelarisation"><i>labiovelarisation</i><par n="house__n"/></e>
 
@@ -56117,7 +56117,7 @@
 
                         <e lm="cumulonimbus"><i>cumulonimbus</i><par n="access__n"/></e>
 
-                        <e lm="coupé"><i>coupé</i><par n="house__n"/></e>
+                        <e lm="coupÃ©"><i>coupÃ©</i><par n="house__n"/></e>
 
                         <e lm="couscous"><i>couscous</i><par n="access__n"/></e>
 
@@ -58494,7 +58494,7 @@
 
                         <e lm="Adam"><i>Adam</i><par n="Mark__np"/></e>
 
-                        <e lm="Adrià"><i>Adrià</i><par n="Mark__np"/></e>
+                        <e lm="AdriÃ "><i>AdriÃ </i><par n="Mark__np"/></e>
 
                         <e lm="Adriana "><i>Adriana </i><par n="Mary__np"/></e>
 
@@ -58522,7 +58522,7 @@
 
                         <e lm="Alex"><i>Alex</i><par n="Mark__np"/></e>
 
-                        <e lm="Àlex"><i>Àlex</i><par n="Mark__np"/></e>
+                        <e lm="Ãlex"><i>Ãlex</i><par n="Mark__np"/></e>
 
                         <e lm="Alianore-"><i>Alianore-</i><par n="Mary__np"/></e>
 
@@ -58544,9 +58544,9 @@
 
                         <e lm="Andrew"><i>Andrew</i><par n="Mark__np"/></e>
 
-                        <e lm="Àngela"><i>Àngela</i><par n="Mary__np"/></e>
+                        <e lm="Ãngela"><i>Ãngela</i><par n="Mary__np"/></e>
 
-                        <e lm="Àngel"><i>Àngel</i><par n="Mark__np"/></e>
+                        <e lm="Ãngel"><i>Ãngel</i><par n="Mark__np"/></e>
 
                         <e lm="Annabel"><i>Annabel</i><par n="Mary__np"/></e>
 
@@ -58562,7 +58562,7 @@
 
                         <e lm="Anthony"><i>Anthony</i><par n="Mark__np"/></e>
 
-                        <e lm="Antònia"><i>Antònia</i><par n="Mary__np"/></e>
+                        <e lm="AntÃ²nia"><i>AntÃ²nia</i><par n="Mary__np"/></e>
 
                         <e lm="Antoni"><i>Antoni</i><par n="Mark__np"/></e>
 
@@ -58588,7 +58588,7 @@
 
                         <e lm="Barbara"><i>Barbara</i><par n="Mary__np"/></e>
 
-                        <e lm="Bàrbara"><i>Bàrbara</i><par n="Mary__np"/></e>
+                        <e lm="BÃ rbara"><i>BÃ rbara</i><par n="Mary__np"/></e>
 
                         <e lm="(Barnard)"><i>(Barnard)</i><par n="Mark__np"/></e>
 
@@ -58664,7 +58664,7 @@
 
                         <e lm="Clarice"><i>Clarice</i><par n="Mary__np"/></e>
 
-                        <e lm="Clàudia"><i>Clàudia</i><par n="Mary__np"/></e>
+                        <e lm="ClÃ udia"><i>ClÃ udia</i><par n="Mary__np"/></e>
 
                         <e lm="Collys"><i>Collys</i><par n="Mary__np"/></e>
 
@@ -58688,7 +58688,7 @@
 
                         <e lm="Denys"><i>Denys</i><par n="Mary__np"/></e>
 
-                        <e lm="Desirée"><i>Desirée</i><par n="Mary__np"/></e>
+                        <e lm="DesirÃ©e"><i>DesirÃ©e</i><par n="Mary__np"/></e>
 
                         <e lm="Diego"><i>Diego</i><par n="Mark__np"/></e>
 
@@ -58756,7 +58756,7 @@
 
                         <e lm="Evelyn"><i>Evelyn</i><par n="Mary__np"/></e>
 
-                        <e lm="Fàtima"><i>Fàtima</i><par n="Mary__np"/></e>
+                        <e lm="FÃ tima"><i>FÃ tima</i><par n="Mary__np"/></e>
 
                         <e lm="Felice"><i>Felice</i><par n="Mary__np"/></e>
 
@@ -58798,7 +58798,7 @@
 
                         <e lm="Giles"><i>Giles</i><par n="Mark__np"/></e>
 
-                        <e lm="Glòria"><i>Glòria</i><par n="Mary__np"/></e>
+                        <e lm="GlÃ²ria"><i>GlÃ²ria</i><par n="Mary__np"/></e>
 
                         <e lm="Godfrey"><i>Godfrey</i><par n="Mark__np"/></e>
 
@@ -58814,7 +58814,7 @@
 
                         <e lm="Harry"><i>Harry</i><par n="Mark__np"/></e>
 
-                        <e lm="Héctor"><i>Héctor</i><par n="Mark__np"/></e>
+                        <e lm="HÃ©ctor"><i>HÃ©ctor</i><par n="Mark__np"/></e>
 
                         <e lm="Helena"><i>Helena</i><par n="Mary__np"/></e>
 
@@ -58836,9 +58836,9 @@
 
                         <e lm="Ignaci"><i>Ignaci</i><par n="Mark__np"/></e>
 
-                        <e lm="Íker"><i>Íker</i><par n="Mark__np"/></e>
+                        <e lm="Ãker"><i>Ãker</i><par n="Mark__np"/></e>
 
-                        <e lm="Inès"><i>Inès</i><par n="Mary__np"/></e>
+                        <e lm="InÃšs"><i>InÃšs</i><par n="Mary__np"/></e>
 
                         <e lm="Ingham"><i>Ingham</i><par n="Mark__np"/></e>
 
@@ -58878,7 +58878,7 @@
 
                         <e lm="Jenlyns"><i>Jenlyns</i><par n="Mark__np"/></e>
 
-                        <e lm="Jesús"><i>Jesús</i><par n="Mark__np"/></e>
+                        <e lm="JesÃºs"><i>JesÃºs</i><par n="Mark__np"/></e>
 
                         <e lm="Joan Antoni"><i>Joan Antoni</i><par n="Mark__np"/></e>
 
@@ -58910,7 +58910,7 @@
 
                         <e lm="Judit"><i>Judit</i><par n="Mary__np"/></e>
 
-                        <e lm="Júlia"><i>Júlia</i><par n="Mary__np"/></e>
+                        <e lm="JÃºlia"><i>JÃºlia</i><par n="Mary__np"/></e>
 
                         <e lm="Julian"><i>Julian</i><par n="Mary__np"/></e>
 
@@ -58940,15 +58940,15 @@
 
                         <e lm="Lewis"><i>Lewis</i><par n="Mark__np"/></e>
 
-                        <e lm="Lídia"><i>Lídia</i><par n="Mary__np"/></e>
+                        <e lm="LÃ­dia"><i>LÃ­dia</i><par n="Mary__np"/></e>
 
-                        <e lm="Llorenç"><i>Llorenç</i><par n="Mark__np"/></e>
+                        <e lm="LlorenÃ§"><i>LlorenÃ§</i><par n="Mark__np"/></e>
 
-                        <e lm="Llúcia"><i>Llúcia</i><par n="Mary__np"/></e>
+                        <e lm="LlÃºcia"><i>LlÃºcia</i><par n="Mary__np"/></e>
 
                         <e lm="Lluc"><i>Lluc</i><par n="Mark__np"/></e>
 
-                        <e lm="Lluís"><i>Lluís</i><par n="Mark__np"/></e>
+                        <e lm="LluÃ­s"><i>LluÃ­s</i><par n="Mark__np"/></e>
 
                         <e lm="Lluna"><i>Lluna</i><par n="Mary__np"/></e>
 
@@ -58984,7 +58984,7 @@
 
                         <e lm="Margry"><i>Margry</i><par n="Mary__np"/></e>
 
-                        <e lm="Maria Antònia"><i>Maria Antònia</i><par n="Mary__np"/></e>
+                        <e lm="Maria AntÃ²nia"><i>Maria AntÃ²nia</i><par n="Mary__np"/></e>
 
                         <e lm="Maria del Carme"><i>Maria del Carme</i><par n="Mary__np"/></e>
 
@@ -59010,7 +59010,7 @@
 
                         <e lm="Marta"><i>Marta</i><par n="Mary__np"/></e>
 
-                        <e lm="Martí"><i>Martí</i><par n="Mark__np"/></e>
+                        <e lm="MartÃ­"><i>MartÃ­</i><par n="Mark__np"/></e>
 
                         <e lm="Martina"><i>Martina</i><par n="Mary__np"/></e>
 
@@ -59038,7 +59038,7 @@
 
                         <e lm="Millicent"><i>Millicent</i><par n="Mary__np"/></e>
 
-                        <e lm="Miquel Àngel"><i>Miquel Àngel</i><par n="Mark__np"/></e>
+                        <e lm="Miquel Ãngel"><i>Miquel Ãngel</i><par n="Mark__np"/></e>
 
                         <e lm="Miquel"><i>Miquel</i><par n="Mark__np"/></e>
 
@@ -59048,11 +59048,11 @@
 
                         <e lm="Muriel"><i>Muriel</i><par n="Mary__np"/></e>
 
-                        <e lm="Nàdia"><i>Nàdia</i><par n="Mary__np"/></e>
+                        <e lm="NÃ dia"><i>NÃ dia</i><par n="Mary__np"/></e>
 
                         <e lm="Naiara"><i>Naiara</i><par n="Mary__np"/></e>
 
-                        <e lm="Natàlia"><i>Natàlia</i><par n="Mary__np"/></e>
+                        <e lm="NatÃ lia"><i>NatÃ lia</i><par n="Mary__np"/></e>
 
                         <e lm="Nathaniel"><i>Nathaniel</i><par n="Mark__np"/></e>
 
@@ -59080,7 +59080,7 @@
 
                         <e lm="Nora"><i>Nora</i><par n="Mary__np"/></e>
 
-                        <e lm="Núria"><i>Núria</i><par n="Mary__np"/></e>
+                        <e lm="NÃºria"><i>NÃºria</i><par n="Mary__np"/></e>
 
                         <e lm="Olever"><i>Olever</i><par n="Mark__np"/></e>
 
@@ -59090,11 +59090,11 @@
 
                         <e lm="Olyver"><i>Olyver</i><par n="Mark__np"/></e>
 
-                        <e lm="Òscar"><i>Òscar</i><par n="Mark__np"/></e>
+                        <e lm="Ãscar"><i>Ãscar</i><par n="Mark__np"/></e>
 
                         <e lm="Owner"><i>Owner</i><par n="Mary__np"/></e>
 
-                        <e lm="Patrícia"><i>Patrícia</i><par n="Mary__np"/></e>
+                        <e lm="PatrÃ­cia"><i>PatrÃ­cia</i><par n="Mary__np"/></e>
 
                         <e lm="Pau"><i>Pau</i><par n="Mark__np"/></e>
 
@@ -59140,7 +59140,7 @@
 
                         <e lm="Raulin"><i>Raulin</i><par n="Mark__np"/></e>
 
-                        <e lm="Raúl"><i>Raúl</i><par n="Mark__np"/></e>
+                        <e lm="RaÃºl"><i>RaÃºl</i><par n="Mark__np"/></e>
 
                         <e lm="Reginald"><i>Reginald</i><par n="Mark__np"/></e>
 
@@ -59182,7 +59182,7 @@
 
                         <e lm="Sarra"><i>Sarra</i><par n="Mary__np"/></e>
 
-                        <e lm="Sebastià"><i>Sebastià</i><par n="Mark__np"/></e>
+                        <e lm="SebastiÃ "><i>SebastiÃ </i><par n="Mark__np"/></e>
 
                         <e lm="Sence"><i>Sence</i><par n="Mary__np"/></e>
 
@@ -59190,13 +59190,13 @@
 
                         <e lm="Sibil"><i>Sibil</i><par n="Mary__np"/></e>
 
-                        <e lm="Sílvia"><i>Sílvia</i><par n="Mary__np"/></e>
+                        <e lm="SÃ­lvia"><i>SÃ­lvia</i><par n="Mary__np"/></e>
 
                         <e lm="Simon"><i>Simon</i><par n="Mark__np"/></e>
 
                         <e lm="Sofia"><i>Sofia</i><par n="Mary__np"/></e>
 
-                        <e lm="Sònia"><i>Sònia</i><par n="Mary__np"/></e>
+                        <e lm="SÃ²nia"><i>SÃ²nia</i><par n="Mary__np"/></e>
 
                         <e lm="Stehen"><i>Stehen</i><par n="Mark__np"/></e>
 
@@ -59216,7 +59216,7 @@
 
                         <e lm="Symond"><i>Symond</i><par n="Mark__np"/></e>
 
-                        <e lm="Tània"><i>Tània</i><par n="Mary__np"/></e>
+                        <e lm="TÃ nia"><i>TÃ nia</i><par n="Mary__np"/></e>
 
                         <e lm="Thames"><i>Thames</i><par n="Mark__np"/></e>
 
@@ -59228,15 +59228,15 @@
 
                         <e lm="Tomas"><i>Tomas</i><par n="Mark__np"/></e>
 
-                        <e lm="Tomàs"><i>Tomàs</i><par n="Mark__np"/></e>
+                        <e lm="TomÃ s"><i>TomÃ s</i><par n="Mark__np"/></e>
 
                         <e lm="Ursula"><i>Ursula</i><par n="Mary__np"/></e>
 
                         <e lm="Valentine"><i>Valentine</i><par n="Mark__np"/></e>
 
-                        <e lm="Victòria"><i>Victòria</i><par n="Mary__np"/></e>
+                        <e lm="VictÃ²ria"><i>VictÃ²ria</i><par n="Mary__np"/></e>
 
-                        <e lm="Víctor"><i>Víctor</i><par n="Mark__np"/></e>
+                        <e lm="VÃ­ctor"><i>VÃ­ctor</i><par n="Mark__np"/></e>
 
                         <e lm="Vyncent"><i>Vyncent</i><par n="Mark__np"/></e>
 

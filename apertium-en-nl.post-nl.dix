@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+ï»¿<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 
 <dictionary>
   <alphabet/>
@@ -42,7 +42,7 @@
         <i>@</i>
       </e>
       <e>
-        <i>«</i>
+        <i>Â«</i>
       </e>
       <e>
         <i>-</i>
@@ -60,10 +60,10 @@
         <i>`</i>
       </e>
       <e>
-        <i>±</i>
+        <i>Â±</i>
       </e>
       <e>
-        <i>­</i>
+        <i>Â­</i>
       </e>
       <e>
         <i>$</i>

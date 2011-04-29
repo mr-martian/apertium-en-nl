@@ -1,9 +1,110 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
+  <alphabet>Ã€ÃÃ‚Ã„Ã‡ÃˆÃ‰ÃŠÃ‹ÃŒÃÃŽÃÃ‘Ã’Ã“Ã”Ã–Ã™ÃšÃ›ÃœÃ Ã¡Ã¢Ã¤Ã§Ã¨Ã©ÃªÃ«Ã¬Ã­Ã®Ã¯Ã±Ã²Ã³Ã´Ã¶Ã¹ÃºÃ»Ã¼ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
 
   <!-- Symbol definitions -->
-  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="apertium-en-nl.symbols.xml"/>
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+    <sdef n="m"       c="Masculine"/>
+    <sdef n="f"       c="Feminine"/>
+    <sdef n="nt"      c="Neuter"/>
+    <sdef n="mf"      c="Masculine-Feminine"/>
+    <sdef n="sg"      c="Singular"/>
+    <sdef n="pl"      c="Plural"/>
+    <sdef n="prn"     c="Pronoun"/>
+    <sdef n="pr"      c="Preposition"/>
+
+    <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub"  c="Subordinating conjunction"/>
+    <sdef n="cnjadv"  c="Adverbial conjunction"/>
+
+    <sdef n="vbser"   c="The verb 'to be'"/>
+    <sdef n="vblex"   c="Lexical verb"/>	
+    <sdef n="vaux"    c="Auxilliary verb"/>	
+    <sdef n="vbhaver" c="The verb 'to have'"/>
+    <sdef n="vbmod"   c="Modal verb"/>
+    <sdef n="pri"     c="Present indicative"/>
+    <sdef n="past"    c="Past tense"/>
+    <sdef n="pres"    c="Present tense"/>
+    <sdef n="inf"     c="Infinitive"/>
+
+    <sdef n="aff"     c="Affirmative"/>
+    <sdef n="int"     c="Interrogative"/>
+    <sdef n="neg"     c="Negative"/>
+
+    <sdef n="p1"      c="First person"/>
+    <sdef n="p2"      c="Second person"/>
+    <sdef n="p3"      c="Third person"/>
+    <sdef n="impers"  c="Impersonal"/>
+ 
+    <sdef n="tn"      c="Tonico"/>
+    <sdef n="adj"     c="Adjective"/>
+    <sdef n="sint"    c="Synthetic adjective"/>
+    <sdef n="comp"    c="Comparative"/>
+    <sdef n="sup"     c="Superlative"/>
+    <sdef n="attr"    c="Attributive"/>
+    <sdef n="pred"    c="Predicative"/>
+
+    <sdef n="detnt"   c="Neuter determiner"/>
+    <sdef n="predet"  c="Pre determiner"/>
+    <sdef n="atn"/>
+    <sdef n="qnt"/>
+    <sdef n="ord"     c="Ordinal"/>
+    <sdef n="obj"     c="Object"/>
+    <sdef n="subj"    c="Subject"/>
+    <sdef n="pro"     c="Proclitic"/>
+    <sdef n="acr"     c="Acronym"/>
+    <sdef n="loc"     c="Locative"/>
+    <sdef n="ant"     c="Antroponym"/>
+    <sdef n="al"      c="Other / Otros"/>
+    <sdef n="np"      c="Proper noun"/>
+    <sdef n="adv"     c="Adverb"/>
+    <sdef n="preadv"  c="Pre-adverb"/>
+    <sdef n="rel"     c="Relative"/>
+    <sdef n="nn"      c="Noun noun"/>
+    <sdef n="an"      c="Adjective noun"/>
+    <sdef n="aa"      c="Adjective adjective"/>
+    <sdef n="ind"     c="Indefinite"/>    
+    <sdef n="itg"     c="Interrogative"/>
+    <sdef n="det"     c="Determiner"/>
+    <sdef n="dem"     c="Demonstrative"/>
+    <sdef n="def"     c="Definite"/>
+    <sdef n="ger"     c="Gerund"/>
+    <sdef n="pp"      c="Participle"/>
+    <sdef n="ifi"     c="PretÃ©rio perfecto o indefinido"/>
+    <sdef n="pii"     c="PretÃ©rio imperfecto de indicativo"/>
+    <sdef n="fti"     c="Future indicative"/>
+    <sdef n="cni"     c="Conditional"/>
+    <sdef n="prs"     c="Present subjunctive"/>
+    <sdef n="pis"     c="PretÃ©rio imperfecto de subjunctivo"/>
+    <sdef n="imp"     c="Imperfect"/>
+    <sdef n="pos"     c="Possessive"/>
+    <sdef n="gen"     c="Genitive"/>
+    <sdef n="nom"     c="Nominative"/>
+    <sdef n="sp"      c="Singular / Plural"/>
+    <sdef n="ref"     c="Reflexive"/>
+    <sdef n="num"     c="Numeral / Number"/>
+    <sdef n="ij"      c="Interjection"/>
+
+    <sdef n="sent"    c="End of sentence"/>
+    <sdef n="cm"      c="Comma"/>
+    <sdef n="lpar"    c="Left parenthesis"/>
+    <sdef n="rpar"    c="Right parenthesis"/>
+    <sdef n="lquest"  c="Left question-mark"/>
+    <sdef n="web"/>
+    <sdef n="subs"/>
+    <sdef n="pprs"/>    
+    <sdef n="guio"    c="Hyphen"/> 
+    <sdef n="enc"/>
+    <sdef n="vbdo"/>
+    <sdef n="unc"/>
+    <sdef n="sep"/>
+    <sdef n="pron"/>
+    <sdef n="apos"    c="Apostrophe"/>
+    <sdef n="percent" c="Percent"/>
+    <sdef n="iobj"    c="Indirect object"/>
+    <sdef n="dat"     c="Dative"/>
+  </sdefs>
 
   <pardefs>
 
@@ -26,7 +127,7 @@
     </pardef>
     
     <pardef n="separ">
-      <e><re>¿</re><p><l/><r><s n="lquest"/></r></p></e>
+      <e><re>Â¿</re><p><l/><r><s n="lquest"/></r></p></e>
     </pardef>
     
     <pardef n="separa">
@@ -7460,7 +7561,7 @@
 
     <!-- Numbers -->
 
-    <pardef n="één__num">
+    <pardef n="Ã©Ã©n__num">
       <e>
         <p>
           <l/>
@@ -7756,9 +7857,9 @@
     <e lm="december"><i>december</i><par n="avondeten__n"/></e>
 
     <e lm="Andorra"><i>Andorra</i><par n="avondeten__n"/></e>
-    <e lm="Australië"><i>Australië</i><par n="avondeten__n"/></e>
-    <e lm="België"><i>België</i><par n="avondeten__n"/></e>
-    <e lm="Brazilië"><i>Brazilië</i><par n="avondeten__n"/></e>
+    <e lm="AustraliÃ«"><i>AustraliÃ«</i><par n="avondeten__n"/></e>
+    <e lm="BelgiÃ«"><i>BelgiÃ«</i><par n="avondeten__n"/></e>
+    <e lm="BraziliÃ«"><i>BraziliÃ«</i><par n="avondeten__n"/></e>
     <e lm="Bulgarije"><i>Bulgarije</i><par n="avondeten__n"/></e>
     <e lm="China"><i>China</i><par n="avondeten__n"/></e>
     <e lm="Denemarken"><i>Denemarken</i><par n="avondeten__n"/></e>
@@ -7766,37 +7867,37 @@
     <e lm="Estland"><i>Estland</i><par n="avondeten__n"/></e>
     <e lm="Finland"><i>Finland</i><par n="avondeten__n"/></e>
     <e lm="Griekenland"><i>Griekenland</i><par n="avondeten__n"/></e>
-    <e lm="Groot-Brittannië"><i>Groot-Brittannië</i><par n="avondeten__n"/></e>
+    <e lm="Groot-BrittanniÃ«"><i>Groot-BrittanniÃ«</i><par n="avondeten__n"/></e>
     <e lm="India"><i>India</i><par n="avondeten__n"/></e>
     <e lm="Ijsland"><i>Ijsland</i><par n="avondeten__n"/></e>
     <e lm="Ierland"><i>Ierland</i><par n="avondeten__n"/></e>
-    <e lm="Israël"><i>Israël</i><par n="avondeten__n"/></e>
-    <e lm="Italië"><i>Italië</i><par n="avondeten__n"/></e>
+    <e lm="IsraÃ«l"><i>IsraÃ«l</i><par n="avondeten__n"/></e>
+    <e lm="ItaliÃ«"><i>ItaliÃ«</i><par n="avondeten__n"/></e>
     <e lm="Japan"><i>Japan</i><par n="avondeten__n"/></e>
     <e lm="Kosovo"><i>Kosovo</i><par n="avondeten__n"/></e>
     <e lm="Canada"><i>Canada</i><par n="avondeten__n"/></e>
-    <e lm="Kroatië"><i>Kroatië</i><par n="avondeten__n"/></e>
+    <e lm="KroatiÃ«"><i>KroatiÃ«</i><par n="avondeten__n"/></e>
     <e lm="Letland"><i>Letland</i><par n="avondeten__n"/></e>
     <e lm="Liechtenstein"><i>Liechtenstein</i><par n="avondeten__n"/></e>
     <e lm="Litouwen"><i>Litouwen</i><par n="avondeten__n"/></e>
     <e lm="Luxemburg"><i>Luxemburg</i><par n="avondeten__n"/></e>
-    <e lm="Macedonië"><i>Macedonië</i><par n="avondeten__n"/></e>
+    <e lm="MacedoniÃ«"><i>MacedoniÃ«</i><par n="avondeten__n"/></e>
     <e lm="Mexico"><i>Mexico</i><par n="avondeten__n"/></e>
-    <e lm="Moldaviën"><i>Moldaviën</i><par n="avondeten__n"/></e>
+    <e lm="MoldaviÃ«n"><i>MoldaviÃ«n</i><par n="avondeten__n"/></e>
     <e lm="Monaco"><i>Monaco</i><par n="avondeten__n"/></e>
     <e lm="Nieuw-Zeeland"><i>Nieuw-Zeeland</i><par n="avondeten__n"/></e>
     <e lm="Noorwegen"><i>Noorwegen</i><par n="avondeten__n"/></e>
     <e lm="Oostenrijk"><i>Oostenrijk</i><par n="avondeten__n"/></e>
     <e lm="Polen"><i>Polen</i><par n="avondeten__n"/></e>
-    <e lm="Roemenië"><i>Roemenië</i><par n="avondeten__n"/></e>
+    <e lm="RoemeniÃ«"><i>RoemeniÃ«</i><par n="avondeten__n"/></e>
     <e lm="Rusland"><i>Rusland</i><par n="avondeten__n"/></e>
     <e lm="Schotland"><i>Schotland</i><par n="avondeten__n"/></e>
     <e lm="Zweden"><i>Zweden</i><par n="avondeten__n"/></e>
-    <e lm="Slovenië"><i>Slovenië</i><par n="avondeten__n"/></e>
+    <e lm="SloveniÃ«"><i>SloveniÃ«</i><par n="avondeten__n"/></e>
     <e lm="Spanje"><i>Spanje</i><par n="avondeten__n"/></e>
     <e lm="Zuid-Afrika"><i>Zuid-Afrika</i><par n="avondeten__n"/></e>
     <e lm="Zuid-Korea"><i>Zuid-Korea</i><par n="avondeten__n"/></e>
-    <e lm="Tunesië"><i>Tunesië</i><par n="avondeten__n"/></e>
+    <e lm="TunesiÃ«"><i>TunesiÃ«</i><par n="avondeten__n"/></e>
     <e lm="Hongarije"><i>Hongarije</i><par n="avondeten__n"/></e>
     <e lm="Wales"><i>Wales</i><par n="avondeten__n"/></e>
     <e lm="Cyprus"><i>Cyprus</i><par n="avondeten__n"/></e>
@@ -7806,7 +7907,7 @@
     <e lm="Libanon"><i>Libanon</i><par n="avondeten__n"/></e>
     <e lm="Zwitserland"><i>Zwitserland</i><par n="avondeten__n"/></e>
     <e lm="Turkije"><i>Turkije</i><par n="avondeten__n"/></e>
-    <e lm="Oekraïne"><i>Oekraïne</i><par n="avondeten__n"/></e>
+    <e lm="OekraÃ¯ne"><i>OekraÃ¯ne</i><par n="avondeten__n"/></e>
     <e lm="Verenigde Staten"><i>Verenigde Staten</i><par n="avondeten__n"/></e>
     <e lm="Duitsland"><i>Duitsland</i><par n="avondeten__n"/></e>
     <e lm="Frankrijk"><i>Frankrijk</i><par n="avondeten__n"/></e>
@@ -8013,7 +8114,7 @@
 
     <!-- Hoofdtelwoorden -->
     <e lm="nul"><i>nul</i><par n="twee__num"/></e>
-    <e lm="één"><i>één</i><par n="één__num"/></e>
+    <e lm="Ã©Ã©n"><i>Ã©Ã©n</i><par n="Ã©Ã©n__num"/></e>
     <e lm="twee"><i>twee</i><par n="twee__num"/></e>
     <e lm="drie"><i>drie</i><par n="twee__num"/></e>
     <e lm="vier"><i>vier</i><par n="twee__num"/></e>
