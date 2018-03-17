@@ -34,3 +34,8 @@ Scripts/nounswiki/noun.txt -text
 /apertium-en-nl.post-nl.dix -text
 /en-nl.prob -text svneol=unset#unset
 /modes.xml -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
